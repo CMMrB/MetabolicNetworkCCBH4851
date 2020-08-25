@@ -1,0 +1,63 @@
+============================================================================
+What to do with reactions bearing no genomic info (no GPR, no EC/TC number)?
+Parsimony: those rxns should not gbe excluded from our CCBH draft, as
+there is nothing excluding their possibility and there is evidence of
+genomic proximity between organisms
+
+============================================================================
+
+rxn14307 has messed up EC_TC column:
+----------------------------------------------
+3.2.2.5| 3.2.2.5         3.2.2.6|3.2.2.6
+
+============================================================================
+
+rxn13878 has messed up EC_TC column:
+----------------------------------------------
+2.4.99.12+2.4.99.13+2.4.99.14+2.4.99.15
+
+============================================================================
+
+rxn13879 has messed up EC_TC column:
+----------------------------------------------
+2.4.99.12+2.4.99.13+2.4.99.14+2.4.99.15
+
+============================================================================
+Operator "+" is missing between metabolites
+----------------------------------------------
+> 4342@rxn99820@RXN-15123@cpd99115[c] + cpd00001[c] cpd00067[c]  -> cpd00013[c] + cpd00094[c] @null@null@null@3.5.99.-@SPONTANEOUS@0@0@1000@0@Curation@30,33699@1@R11098@RXN-15123@null@null@null@null@null@L-methionine degradation II@null@null@null@0
+
+============================================================================
+cpd0023p[e] has p instead of 9
+-----------------------------------
+> 4306@EX_cpd00239(e)@EX H2S e@cpd0023p[e]  <=> @null@null@null@null@Boundary reaction@1@-1000@1000@0@Curation@0@0@null@null@null@null@null@null@null@null@null@null@null@0
+4343c4343
+
+============================================================================
+cpd003561[c] has an extra 0
+------------------------------
+> 4270@rxn70006@2-Hydroxybutanoic acid transport via proton symport (periplasmic to cytoplasmic)@cpd03561[p] + cpd00067[p]  <=> cpd003561[c] + cp00067[c] @null@null@null@null@Secondary transporter@1@-1000@1000@0@Curation@0@2@null@null@null@null@null@null@null@null@null@null@null@1
+4307c4307
+
+============================================================================
+Reactions with strange GPR relations.
+----------------------------------------------------------------------
+Problem: (A and B or C) is ambiguous, unless you know which is the predefined precedence relations of boolean operators)
+Solution: removed "or PA3848" from those GPRs. PA3848 is not present on CCBH4851 anyway
+----------------------------------------------------------------------
+--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=
+1611@rxn05561@Fumarate transport via proton symport (periplasm to cytiplasm, reversible)@cpd00067[c] + cpd00106[c]  <=> cpd00067[p] + cpd00106[p] @(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@PA0884 PA0885 PA0886 PA3779 PA3780 PA3781 PA3848 PA4616 PA5167 PA5168 PA5169@(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@2.A.23.1.3|2.A.23.1.6|2.A.23.1.7|2.A.56.1@Secondary transporter@1@-1000@1000@0@iMO1056|Opt208964@0@2@null@null@FUMt2r|FUMt6|U207@FUMt6@null@null@null@null@null@null@iMM904:FUMt6;"iMM904:FUMt2r";"BiGG:U207";"BiGG:FUMt6";"BiGG:FUMt2r";"iMEO21:FUMt2r";"iAG612:rbs_301";"name:fumarate reversible transport via symport";"name:Transport of dicarboxylates, extracellular";"name:fumarate transport in/out via proton symport";"iMO1056:FUMt6";"searchname:fumaratetransportin/outviaprotonsymport";"searchname:fumaratereversibletransportviasymport";"iIN800:U207";"iYO844:FUMt6";"iND750:FUMt2r";"iNJ661:FUMt2r";"ModelSEED:rxn05561";"KBase:kb|rxn.5561"@1
+--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=
+1625@rxn05603@D-Malate import via proton symport (periplasm to cytoplasm, irreversible)@cpd00067[p] + cpd00386[p]  -> cpd00067[c] + cpd00386[c] @(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@PA0884 PA0885 PA0886 PA3779 PA3780 PA3781 PA3848 PA4616 PA5167 PA5168 PA5169@(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@2.A.23.1.3|2.A.23.1.6|2.A.23.1.7|2.A.56.1@Secondary transporter@0@0@1000@0@iMO1056@0@2@null@null@null@MAL_Dt2@null@null@null@null@null@null@iMM904:MAL_Dt2;"name:D-malate transport in via proton symport";"iYO844:MAL_Dt2";"iMO1056:MAL_Dt2";"searchname:dmalatetransportinviaprotonsymport";"ModelSEED:rxn05603";"KBase:kb|rxn.5603"@1
+--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=
+1626@rxn05605@L-Malate import via proton symport (periplasm to cytoplasm, irreversible)@cpd00067[p] + cpd00130[p]  -> cpd00067[c] + cpd00130[c] @(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@PA0884 PA0885 PA0886 PA3779 PA3780 PA3781 PA3848 PA4616 PA5167 PA5168 PA5169@(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@2.A.23.1.3|2.A.23.1.6|2.A.23.1.7|2.A.56.1@Secondary transporter@0@0@1000@0@iMO1056@0@2@null@null@MAL31|MALt2|MALt2r@MALt2@null@null@null@null@null@null@searchname:lmalatereversibletransportviaprotonsymport;"searchname:lmalatetransportinviaprotonsymport";"searchname:malatepermease";"searchname:malt2r";"ModelSEED:rxn05605";"BiGG:MALt2r";"BiGG:MALt2";"BiGG:MAL31";"iAO358:rll_235";"iMM904:MALt2";"iMM904:MALt2r";"iAG612:rbs_441";"iMEO21:MALt2r";"iMO1056:MALt2";"name:MALt2r";"name:malate permease";"name:Maltose permease MAL31";"name:L-malatereversibletransportviaprotonsymport";"name:L-malate transport in via proton symport";"name:L-malate reversible transport via proton symport";"iIN800:MAL31";"obsolete:rxn11135";"iIT341:MALt2r";"iND750:MALt2r";"iYO844:MALt2";"iNJ661:MALt2r";"KBase:kb|rxn.5605"@1
+--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=
+1644@rxn05654@Succinate transporter via proton symport (periplasm to cytoplasm, reversible)@cpd00036[p] + cpd00067[p]  <=> cpd00036[c] + cpd00067[c] @(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@PA0884 PA0885 PA0886 PA3779 PA3780 PA3781 PA3848 PA4616 PA5167 PA5168 PA5169@(PA0886 or PA3781 or PA5169) and (PA0885 or PA3780 or PA5168) and (PA0884 or PA3779 or PA4616 or PA5167) or PA3848@2.A.23.1.3|2.A.23.1.6|2.A.23.1.7|2.A.56.1@Secondary transporter@1@-1000@1000@0@iMO1056|Opt208964@0@2@null@null@SUCCt2b|SUCCt2r|SUCCt6|U205@SUCCt2b@null@null@null@null@null@null@iJR904:SUCCt2b;"iRR1083:SUCCt2b";"searchname:succinatetransporterin/outviaprotonsymport";"searchname:succt2r";"searchname:succinatetransportviaprotonsymport";"searchname:succinateeffluxviaprotonsymport";"ModelSEED:rxn05654";"BiGG:SUCCt6";"BiGG:SUCCt2r";"BiGG:U205";"BiGG:SUCCt2b";"iMM904:SUCCt2r";"iMM904:SUCCt2b";"iAG612:rbs_552";"iMEO21:SUCCt2r";"iMO1056:SUCCt2b";"name:SUCCt2r";"name:succinate transport via proton symport";"name:succinatetransportviaprotonsymport";"name:succinate transporter in/out via proton symport";"name:Transport of succinate, extracellular";"name:Succinate efflux via proton symport";"iIN800:U205";"iIT341:SUCCt2r";"iND750:SUCCt2r";"iYO844:SUCCt6";"iNJ661:SUCCt2r";"KBase:kb|rxn.5654"@1
+
+==========================================================================
+Genes not defined on "genes" TAB of iPAO1 xls file from paper's suppl. mat.
+--------------------------------------------------------------------------
+
+Metabolites from boundary reactions (EX) from iPAE1146 not present in
+iPAO1 but some similarities are worth checking
+EG: sorbate sorbose sorbitol

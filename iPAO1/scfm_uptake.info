@@ -1,0 +1,46 @@
+#######################################################################
+# SCFM description 
+# ----------------
+# Table S1 from "Genome-scale metabolic network analysis of the
+# opportunistic pathogen Pseudomonas aeruginosa PAO1", Oberhardt MA,
+# Puchalka J, Fryer KE, Martins dos Santos VA, Papin JA (2008). J
+# Bacteriol 190: 2790-2803.
+#
+# We added a last column with cpd ids from "Genome-scale metabolic
+# modeling of responses to polymyxins in Pseudomonas aeruginosa", Yan
+# Zhu et al. GigaScience, Volume 7, Issue 4, April 2018, giy021,
+# https://doi.org/10.1093/gigascience/giy021
+#######################################################################
+na@Na+@Na@Na@C01330@-10@1000@cpd00971
+k@K+@K@K@C00238@-10@1000@cpd00205
+nh4@nh3@H4N@H4N@C01342@-20@1000@cpd00013 
+mg2@Mg@Mg@Mg@C00305@-10@1000@cpd00254
+no3@Nitrate@NO3@HNO3@C00244@-10@1000@cpd00209
+pi@Phosphate@HO4P@H3O4P@C00009@-10@1000@cpd00009
+so4@Sulfate@O4S@H2O4S@C00059@-10@1000@cpd00048
+ser-l@L-Serine@C3H7NO3@C3H7NO3@C00065@-10@1000@cpd00054
+thr-l@L-Threonine@C4H9NO3@C4H9NO3@C00188@-10@1000@cpd00161
+ala-l@L-Alanine@C3H7NO2@C3H7NO2@C00041@-10@1000@cpd00035
+gly@Glycine@C2H5NO2@C2H5NO2@C00037@-10@1000@cpd00033
+pro-l@L-Proline@C5H9NO2@C5H9NO2@C00148@-10@1000@cpd00129
+ile-l@L-Isoleucine@C6H13NO2@C6H13NO2@C00407@-10@1000@cpd00322
+leu-l@L-Leucine@C6H13NO2@C6H13NO2@C00123@-10@1000@cpd00107
+val-l@L-Valine@C5H11NO2@C5H11NO2@C00183@-10@1000@cpd00156
+asp-l@L-Aspartate@C4H6NO4@C4H7NO4@C00049@-10@1000@cpd00041
+glu-l@L-Glutamate@C5H8NO4@C5H9NO4@C00025@-10@1000@cpd00023
+phe-l@L-Phenylalanine@C9H11NO2@C9H11NO2@C00079@-10@1000@cpd00066
+tyr-l@L-Tyrosine@C9H11NO3@C9H11NO3@C00082@-10@1000@cpd00069
+trp-l@L-Tryptophan@C11H12N2O2@C11H12N2O2@C00078@-10@1000@cpd00065
+lys-l@L-Lysine@C6H15N2O2@C6H14N2O2@C00047@-10@1000@cpd00039
+his-l@L-Histidine@C6H9N3O2@C6H9N3O2@C00135@-10@1000@cpd00119
+arg-l@L-Arginine@C6H15N4O2@C6H14N4O2@C00062@-10@1000@cpd00051
+orn-l@L-Ornithine@C5H13N2O2@C5H12N2O2@C00077@-10@1000@cpd00064
+cys-l@L-Cysteine@C3H7NO2S@C3H7NO2S@C00097@-10@1000@cpd00084
+met-l@L-Methionine@C5H11NO2S@C5H11NO2S@C00073@-10@1000@cpd00060
+glc-d@D-Glucose@C6H12O6@C6H12O6@C00031@-10@1000@cpd00027
+lac-l@L-Lactate@C3H5O3@C3H6O3@C00186@-1@1000@cpd00159
+fe2@Fe2+@Fe@Fe@C00023@-10@1000@cpd10515
+h@H+@H@H@C00080@-10@1000@cpd00067
+h2o@H2O@H2O@H2O@C00001@-10@1000@cpd00001
+o2@O2@O2@O2@C00007@-0.1@1000@cpd00007
+co2@CO2@CO2@CO2@C00011@-10@1000@cpd00011

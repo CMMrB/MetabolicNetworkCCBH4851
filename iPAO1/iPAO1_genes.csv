@@ -1,0 +1,1441 @@
+#Locus Tag@Predicted Subcellular Localisation@Gene ID@Annotation
+PA0005@Cytoplasmic Membrane@lptA@lysophosphatidic acid acyltransferase
+PA0006@Cytoplasmic@@conserved hypothetical protein 
+PA0008@Cytoplasmic@glyS@glycyl-tRNA synthetase beta chain 
+PA0009@Cytoplasmic@glyQ@glycyl-tRNA synthetase alpha chain 
+PA0011@Cytoplasmic Membrane@@2-OH-lauroyltransferase 
+PA0016@Cytoplasmic Membrane@trkA@potassium uptake protein TrkA 
+PA0023@Cytoplasmic@qor@quinone oxidoreductase NADPH:quinone reductase
+PA0024@Cytoplasmic@hemF@coproporphyrinogen III oxidase
+PA0025@Cytoplasmic@aroE@shikimate dehydrogenase 
+PA0026@Unknown@plcB@phospholipase C
+PA0029@Cytoplasmic Membrane@@probable sulfate transporter 
+PA0030@Unknown@cosX@CosX 
+PA0031@Cytoplasmic@betC@choline sulfatase 
+PA0035@Cytoplasmic@trpA@tryptophan synthase alpha chain 
+PA0036@Cytoplasmic@trpB@tryptophan synthase beta chain 
+PA0051@Cytoplasmic@phzH@potential phenazine-modifying enzyme probable glutamine amidotransferase
+PA0065@Cytoplasmic@@hypothetical protein 
+PA0098@Cytoplasmic@@hypothetical protein 
+PA0102@Cytoplasmic@@probable carbonic anhydrase 
+PA0103@Cytoplasmic Membrane@@probable sulfate transporter 
+PA0105@Cytoplasmic Membrane@coxB@cytochrome c oxidase
+PA0106@Cytoplasmic Membrane@coxA@cytochrome c oxidase
+PA0108@Cytoplasmic Membrane@coIII@cytochrome c oxidase
+PA0113@Cytoplasmic Membrane@@probable cytochrome c oxidase assembly factor 
+PA0119@Cytoplasmic Membrane@@probable dicarboxylate transporter 
+PA0129@Cytoplasmic Membrane@bauD@Amino acid permease 
+PA0130@Cytoplasmic@bauC@3-Oxopropanoate dehydrogenase 
+PA0132@Cytoplasmic@bauA@Beta-alanine:pyruvate transaminase omega-amino acid--pyruvate transaminase
+PA0134@Cytoplasmic@@probable guanine deaminase 
+PA0136@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA0137@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0138@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0143@Unknown@nuh@purine nucleosidase Nuh nucleoside hydrolase
+PA0146@Unknown@@conserved hypothetical protein 
+PA0148@Cytoplasmic@@adenine deaminase 
+PA0153@Cytoplasmic@pcaH@protocatechuate 3
+PA0154@Cytoplasmic@pcaG@protocatechuate 3
+PA2385@Periplasmic@pvdQ@3-oxo-C12-homoserine lactone acylase PvdQ PvdQ
+PA0166@Cytoplasmic Membrane@@probable transporter 
+PA0182@Cytoplasmic@@probable short-chain dehydrogenase 
+PA0184@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA0185@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0186@Unknown@@probable binding protein component of ABC transporter 
+PA0189@Outer Membrane@@probable porin 
+PA1342@Periplasmic@aatJ@AatJ 
+PA0193@Cytoplasmic@@hypothetical protein 
+PA0195@Cytoplasmic Membrane@pntAA@putative NAD(P) transhydrogenase
+PA0195.1@Cytoplasmic Membrane@pntAB@putative NAD(P) transhydrogenase
+PA0196@Cytoplasmic Membrane@pntB@pyridine nucleotide transhydrogenase
+PA0202@Cytoplasmic@@probable amidase 
+PA3542@Periplasmic@alg44@alginate biosynthesis protein Alg44 
+PA0204@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0205@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0206@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA0208@Cytoplasmic@mdcA@malonate decarboxylase alpha subunit 
+PA0210@Cytoplasmic@mdcC@malonate decarboxylase delta subunit 
+PA0211@Cytoplasmic@mdcD@malonate decarboxylase beta subunit 
+PA0212@Cytoplasmic@mdcE@malonate decarboxylase gamma subunit 
+PA0214@Cytoplasmic@@probable acyl transferase 
+PA0215@Cytoplasmic Membrane@@malonate transporter MadL 
+PA0216@Cytoplasmic Membrane@@malonate transporter MadM 
+PA0219@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA0223@Cytoplasmic@@probable dihydrodipicolinate synthetase 
+PA0224@Cytoplasmic@@probable aldolase 
+PA0226@Cytoplasmic@@probable CoA transferase
+PA0227@Cytoplasmic@@probable CoA transferase
+PA0228@Cytoplasmic@pcaF@beta-ketoadipyl CoA thiolase PcaF 
+PA0230@Cytoplasmic@pcaB@3-carboxy-cis
+PA0231@Unknown@pcaD@beta-ketoadipate enol-lactone hydrolase 
+PA0232@Unknown@pcaC@gamma-carboxymuconolactone decarboxylase 
+PA0235@Cytoplasmic Membrane@pcaK@4-hydroxybenzoate transporter PcaK 
+PA0240@Outer Membrane@@probable porin 
+PA0241@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA0242@Cytoplasmic@@hypothetical protein 
+PA0244@Cytoplasmic@@hypothetical protein 
+PA0245@Cytoplasmic@aroQ2@3-dehydroquinate dehydratase dehydroquinase
+PA0247@Cytoplasmic@pobA@p-hydroxybenzoate hydroxylase 
+PA0265@Cytoplasmic@gabD@succinate-semialdehyde dehydrogenase 
+PA0266@Cytoplasmic@gabT@4-aminobutyrate aminotransferase gabA transaminase
+PA0273@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA0280@Cytoplasmic Membrane@cysA@sulfate transport protein CysA 
+PA0281@Cytoplasmic Membrane@cysW@sulfate transport protein CysW 
+PA0282@Cytoplasmic Membrane@cysT@sulfate transport protein CysT 
+PA3546@Periplasmic@algX@alginate biosynthesis protein AlgX 
+PA0286@Cytoplasmic Membrane@desA@delta-9 fatty acid desaturase
+PA0288@Cytoplasmic@gpuA@3-guanidinopropionase proclavaminic acid amidino hydrolase
+PA0291@Outer Membrane@oprE@Anaerobically-induced outer membrane porin OprE precursor Porin E1
+PA0292@Cytoplasmic@aguA@agmatine deiminase agmatine iminohydrolase
+PA0293@Cytoplasmic@aguB@N-carbamoylputrescine amidohydrolase N-carbamoylputrescine amidase
+PA0296@Cytoplasmic@spuI@Glutamylpolyamine synthetase pauA1
+PA0297@Unknown@spuA@probable glutamine amidotransferase pauD1
+PA0298@Cytoplasmic@spuB@Glutamylpolyamine synthetase pauA2
+PA0299@Cytoplasmic@spuC@Polyamine:pyruvate transaminase spuC
+PA3543@Periplasmic@algK@alginate biosynthetic protein AlgK precursor 
+PA3550@Periplasmic@algF@alginate o-acetyltransferase AlgF 
+PA0302@Cytoplasmic Membrane@spuF@polyamine transport protein PotG 
+PA0303@Cytoplasmic Membrane@spuG@polyamine transport protein PotH 
+PA0304@Cytoplasmic Membrane@spuH@polyamine transport protein PotI 
+PA0308@Cytoplasmic@@hypothetical protein 
+PA0312@Cytoplasmic@@conserved hypothetical protein 
+PA0313@Cytoplasmic Membrane@@L-cysteine transporter of ABC system YecS 
+PA3296@Periplasmic@phoA@alkaline phosphatase 
+PA0316@Cytoplasmic@serA@D-3-phosphoglycerate dehydrogenase 
+PA5153@Periplasmic@@amino acid (lysine/arginine/ornithine/histidine/octopine) ABC transporter periplasmic binding protein 
+PA0324@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0325@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA0326@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA0330@Cytoplasmic@rpiA@ribose 5-phosphate isomerase phosphoriboisomerase; ribose 5-phosphate epimerase
+PA0331@Cytoplasmic@ilvA1@threonine dehydratase
+PA0342@Cytoplasmic@thyA@thymidylate synthase 
+PA1260@Periplasmic@@amino acid ABC transporter periplasmic binding protein 
+PA0350@Unknown@folA@dihydrofolate reductase 
+PA0352@Cytoplasmic Membrane@@probable transporter 
+PA0353@Cytoplasmic@ilvD@dihydroxy-acid dehydratase 
+PA0888@Periplasmic@aotJ@arginine/ornithine binding protein AotJ 
+PA0363@Cytoplasmic@coaD@phosphopantetheine adenylyltransferase PPAT
+PA0366@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA0378@Cytoplasmic Membrane@@probable transglycosylase monofunctional biosynthetic peptidoglycan transglycosylase
+PA0386@Cytoplasmic@@probable oxidase 
+PA0387@Cytoplasmic@@conserved hypothetical protein 
+PA0390@Cytoplasmic@metX@homoserine O-acetyltransferase 
+PA0393@Cytoplasmic@proC@pyrroline-5-carboxylate reductase delta-1-pyrroline-5-carboxylate reductase
+PA0397@Cytoplasmic Membrane@@probable cation efflux system protein 
+PA0399@Cytoplasmic@@cystathionine beta-synthase methylcysteine synthase; beta-thionase; serine sulfhydrase
+PA0400@Cytoplasmic@@probable cystathionine gamma-lyase cystathionase; gamma-cystathionase; cysteine desulfhydrase; cystine desulfhydrase; homoserine dehydratase; homoserine deaminase
+PA0401@Cytoplasmic@@noncatalytic dihydroorotase-like protein 
+PA0402@Cytoplasmic@pyrB@aspartate carbamoyltransferase aspartate transcarbamoylase
+PA0403@Cytoplasmic@pyrR@transcriptional regulator PyrR uracil phosphoribosyltransferase PyrR
+PA0407@Cytoplasmic@gshB@glutathione synthetase GSH-II
+PA0417@Cytoplasmic Membrane@chpE@probable chemotaxis protein 
+PA0420@Cytoplasmic@bioA@adenosylmethionine-8-amino-7-oxononanoate aminotransferase 7
+PA0421@Unknown@@hypothetical protein 
+PA0430@Cytoplasmic@metF@5
+PA0432@Cytoplasmic@sahH@S-adenosyl-L-homocysteine hydrolase adenosylhomocysteinase (adohcyase)
+PA0437@Cytoplasmic@codA@cytosine deaminase 
+PA0438@Cytoplasmic Membrane@codB@cytosine permease 
+PA0439@Cytoplasmic@@probable oxidoreductase 
+PA0440@Cytoplasmic@@probable oxidoreductase 
+PA0441@Cytoplasmic@dht@dihydropyrimidinase D-hydantoinase
+PA0443@Cytoplasmic Membrane@@probable transporter 
+PA0444@Cytoplasmic@@N-carbamoyl-beta-alanine amidohydrolase hydantoinase
+PA0447@Cytoplasmic@gcdH@glutaryl-CoA dehydrogenase 
+PA0450@Cytoplasmic Membrane@@probable phosphate transporter 
+PA0476@Cytoplasmic Membrane@@probable permease 
+PA0480@Cytoplasmic@@probable hydrolase 
+PA0482@Cytoplasmic@glcB@malate synthase G 
+PA0494@Cytoplasmic@@probable acyl-CoA carboxylase subunit 
+PA0495@Cytoplasmic@@hypothetical protein 
+PA0496@Cytoplasmic@@conserved hypothetical protein 
+PA0500@Cytoplasmic@bioB@biotin synthase biotin synthetase
+PA0501@Cytoplasmic@bioF@8-amino-7-oxononanoate synthase 7-keto-8-amino-pelargonic acid synthetase; 7-KAP synthetase
+PA0504@Cytoplasmic@bioD@dethiobiotin synthase DTBS; DTB synthetase; dethiobiotin synthetase
+PA0510@Cytoplasmic@nirE@NirE 
+PA4110@Periplasmic@ampC@beta-lactamase precursor cephalosporinase
+PA0523@Cytoplasmic Membrane@norC@nitric-oxide reductase subunit C cytochrome c subunit of nitric oxide reductase
+PA0524@Cytoplasmic Membrane@norB@nitric-oxide reductase subunit B cytochrome B subunit of nitric oxide reductase
+PA0530@Cytoplasmic Membrane@@probable class III pyridoxal phosphate-dependent aminotransferase 
+PA0531@Cytoplasmic@@probable glutamine amidotransferase 
+PA0546@Cytoplasmic@metK@methionine adenosyltransferase AdoMet synthetase; S-adenosylmethionine synthetase
+PA0548@Cytoplasmic@tktA@transketolase 
+PA0550@Cytoplasmic@@conserved hypothetical protein 
+PA0551@Cytoplasmic@epd@D-erythrose 4-phosphate dehydrogenase 
+PA0552@Cytoplasmic@pgk@phosphoglycerate kinase 
+PA0555@Cytoplasmic@fda@fructose-1
+PA0581@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA0582@Cytoplasmic@folB@dihydroneopterin aldolase 
+PA0583@Cytoplasmic@@hypothetical protein 
+PA0589@Cytoplasmic@@conserved hypothetical protein 
+PA0590@Cytoplasmic@apaH@bis(5'-nucleosyl)-tetraphosphatase diadenosine tetraphosphatase
+PA0593@Cytoplasmic@pdxA@pyridoxal phosphate biosynthetic protein PdxA 
+PA0595@Outer Membrane@lptD@LPS-assembly protein LptD organic solvent tolerance protein OstA precursor
+PA0607@Cytoplasmic@rpe@ribulose-phosphate 3-epimerase 
+PA0608@Cytoplasmic@@probable phosphoglycolate phosphatase 
+PA0609@Cytoplasmic@trpE@anthranilate synthetase component I 
+PA0649@Cytoplasmic@trpG@anthranilate synthase component II 
+PA0650@Cytoplasmic@trpD@anthranilate phosphoribosyltransferase 
+PA0651@Cytoplasmic@trpC@indole-3-glycerol-phosphate synthase 
+PA0654@Cytoplasmic@speD@S-adenosylmethionine decarboxylase proenzyme 
+PA0662@Cytoplasmic@argC@N-acetyl-gamma-glutamyl-phosphate reductase 
+PA0666@Cytoplasmic@@conserved hypothetical protein 
+PA0668@Cytoplasmic@tyrZ@tyrosyl-tRNA synthetase 2 
+PA0704@Cytoplasmic@@probable amidase 
+PA0705@Cytoplasmic Membrane@migA@alpha-1
+PA0710@Cytoplasmic@gloA2@lactoylglutathione lyase glyoxalase I
+PA0733@Cytoplasmic@@probable pseudouridylate synthase 
+PA0743@Cytoplasmic@@probable 3-hydroxyisobutyrate dehydrogenase 
+PA0744@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA0745@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA0746@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA0747@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA0761@Cytoplasmic@nadB@L-aspartate oxidase L-aspartate oxidase(aerobic/anaerobic) NadB
+PA0773@Cytoplasmic@pdxJ@pyridoxal phosphate biosynthetic protein PdxJ 
+PA0777@Unknown@@hypothetical protein 
+PA0782@Cytoplasmic@putA@proline dehydrogenase PutA 
+PA0783@Cytoplasmic Membrane@putP@sodium/proline symporter PutP 
+PA0789@Cytoplasmic Membrane@@probable amino acid permease 
+PA0792@Cytoplasmic@prpD@propionate catabolic protein PrpD 
+PA0794@Cytoplasmic@@probable aconitate hydratase probable aconitase
+PA0795@Cytoplasmic@prpC@citrate synthase 2 
+PA0796@Cytoplasmic@prpB@carboxyphosphonoenolpyruvate phosphonomutase CPEP phosphonomutase
+PA0807@Cytoplasmic@ampDh3@AmpDh3 AmpDh3 (changed from conserved hypothetical protein)
+PA0809@Cytoplasmic Membrane@@probable transporter 
+PA0835@Cytoplasmic@pta@phosphate acetyltransferase phosphotransacetylase
+PA0836@Cytoplasmic@ackA@acetate kinase acetate kinase 
+PA3383@Periplasmic@@binding protein component of ABC phosphonate transporter 
+PA0844@Extracellular@plcH@hemolytic phospholipase C precursor sphingomyelin synthase
+PA0849@Unknown@trxB2@thioredoxin reductase 2 
+PA0854@Cytoplasmic@fumC2@fumarate hydratase fumarase
+PA0865@Cytoplasmic@hpd@4-hydroxyphenylpyruvate dioxygenase 
+PA0866@Cytoplasmic Membrane@aroP2@aromatic amino acid transport protein AroP2 
+PA1946@Periplasmic@rbsB@binding protein component precursor of ABC ribose transporter 
+PA0870@Cytoplasmic@phhC@aromatic amino acid aminotransferase 
+PA0871@Cytoplasmic@phhB@pterin-4-alpha-carbinolamine dehydratase 
+PA0872@Cytoplasmic@phhA@phenylalanine-4-hydroxylase phenylalanine 4-monooxygenase
+PA0879@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA0883@Cytoplasmic@@probable acyl-CoA lyase beta chain probable acyl-S-ACP lyase
+PA1074@Periplasmic@braC@branched-chain amino acid transport protein BraC 
+PA0885@Cytoplasmic Membrane@@probable C4-dicarboxylate transporter 
+PA0886@Cytoplasmic Membrane@@probable C4-dicarboxylate transporter 
+PA0887@Cytoplasmic@acsA@acetyl-coenzyme A synthetase 
+PA4613@Periplasmic@katB@catalase 
+PA0889@Cytoplasmic Membrane@aotQ@arginine/ornithine transport protein AotQ 
+PA0890@Cytoplasmic Membrane@aotM@arginine/ornithine transport protein AotM 
+PA0892@Cytoplasmic Membrane@aotP@arginine/ornithine transport protein AotP 
+PA0895@Cytoplasmic@aruC@N-succinylglutamate 5-semialdehyde dehydrogenase succinylornithine aminotransferase
+PA0896@Cytoplasmic@aruF@arginine/ornithine succinyltransferase AI subunit 
+PA0897@Cytoplasmic@aruG@arginine/ornithine succinyltransferase AII subunit 
+PA0898@Cytoplasmic@aruD@succinylglutamate 5-semialdehyde dehydrogenase 
+PA0899@Cytoplasmic@aruB@succinylarginine dihydrolase 
+PA0901@Cytoplasmic@aruE@succinylglutamate desuccinylase 
+PA0902@Cytoplasmic@@hypothetical protein 
+PA0903@Cytoplasmic@alaS@alanyl-tRNA synthetase 
+PA0904@Cytoplasmic@lysC@aspartate kinase alpha and beta chain aspartokinase
+PA0917@Cytoplasmic Membrane@kup@potassium uptake protein Kup 
+PA0927@Cytoplasmic@ldhA@D-lactate dehydrogenase (fermentative) 
+PA0932@Cytoplasmic@cysM@cysteine synthase B O-acetylserine sulfhydrylase B
+PA0934@Cytoplasmic@relA@GTP pyrophosphokinase 
+PA0935@Cytoplasmic@@conserved hypothetical protein 
+PA0936@Cytoplasmic Membrane@lpxO2@lipopolysaccharide biosynthetic protein LpxO2 lipopolysaccharide biosynthetic protein Lpx02
+PA0944@Cytoplasmic@purN@phosphoribosylaminoimidazole synthetase phosphoribosylformylglycinamidine cyclo-ligase
+PA0945@Cytoplasmic@purM@phosphoribosylaminoimidazole synthetase phosphoribosylformylglycinamidine cyclo-ligase
+PA0949@Unknown@wrbA@Trp repressor binding protein WrbA 
+PA0954@Cytoplasmic@@probable acylphosphatase probable acylphosphate phosphohydrolase
+PA0956@Cytoplasmic@proS@prolyl-tRNA synthetase proline aminoacyl tRNA synthetase
+PA0958@Outer Membrane@oprD@Basic amino acid
+PA0963@Cytoplasmic@aspS@aspartyl-tRNA synthetase aspRS; aspartate-tRNA ligase
+PA0996@Cytoplasmic Membrane@pqsA@PqsA probable coenzyme A ligase
+PA0997@Cytoplasmic@pqsB@PqsB 
+PA0998@Cytoplasmic@pqsC@PqsC 
+PA0999@Cytoplasmic@pqsD@3-oxoacyl-[acyl-carrier-protein] synthase III acetyl CoA ACP transacetylase; beta-ketoacyl-ACP synthase III
+PA1001@Cytoplasmic@phnA@anthranilate synthase component I phenazine biosynthesis protein PhnA
+PA1002@Cytoplasmic@phnB@anthranilate synthase component II phenazine biosynthesis protein PhnB
+PA1004@Cytoplasmic@nadA@quinolinate synthetase A L-aspartate oxidase (aerobic/anaerobic) NadA
+PA1010@Cytoplasmic@dapA@dihydrodipicolinate synthase 
+PA1013@Cytoplasmic@purC@phosphoribosylaminoimidazole-succinocarboxamide synthase 
+PA1019@Cytoplasmic Membrane@mucK@cis
+PA1021@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA1025@Outer Membrane@@probable porin 
+PA1027@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA1028@Cytoplasmic@@probable oxidoreductase 
+PA1032@Unknown@quiP@QuiP acyl-homoserine lactone acylase
+PA1049@Cytoplasmic@pdxH@pyridoxine 5'-phosphate oxidase 
+PA1051@Cytoplasmic Membrane@@probable transporter 
+PA1052@Cytoplasmic@@conserved hypothetical protein 
+PA1054@Cytoplasmic Membrane@shaA@ShaA 
+PA1055@Cytoplasmic Membrane@shaB@ShaB 
+PA1056@Cytoplasmic Membrane@shaC@ShaC 
+PA1057@Unknown@shaD@ShaD 
+PA1058@Cytoplasmic Membrane@shaE@ShaE 
+PA1059@Cytoplasmic Membrane@shaF@ShaF 
+PA1061@Cytoplasmic@@conserved hypothetical protein 
+PA1070@Cytoplasmic Membrane@braG@branched-chain amino acid transport protein BraG 
+PA1071@Cytoplasmic@braF@branched-chain amino acid transport protein BraF 
+PA1072@Cytoplasmic Membrane@braE@branched-chain amino acid transport protein BraE 
+PA1073@Cytoplasmic Membrane@braD@branched-chain amino acid transport protein BraD 
+PA5378@Periplasmic@cbcX@CbcX 
+PA1122@@@putative peptide deformylase 
+PA1124@Cytoplasmic@dgt@deoxyguanosinetriphosphate triphosphohydrolase dGTP triphosphohydrolase; dGTPase
+PA1130@Unknown@rhlC@rhamnosyltransferase 2 
+PA1155@Cytoplasmic@nrdB@NrdB
+PA1156@Cytoplasmic@nrdA@NrdA
+PA1162@Cytoplasmic@dapE@succinyl-diaminopimelate desuccinylase N-succinyl-diaminopimelate deacylase
+PA1165@Unknown@pcpS@PcpS Pseudomonas aeruginosa carrier protein synthase
+PA1171@Cytoplasmic Membrane@@probable transglycolase 
+PA1172@Cytoplasmic Membrane@napC@cytochrome c-type protein NapC 
+PA4045@Periplasmic@@conserved hypothetical protein 
+PA3475@Periplasmic@pheC@cyclohexadienyl dehydratase precursor 
+PA1183@Cytoplasmic Membrane@dctA@C4-dicarboxylate transport protein 
+PA1187@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA1194@Cytoplasmic Membrane@@probable amino acid permease 
+PA1195@Cytoplasmic@@hypothetical protein 
+PA1217@Cytoplasmic@@probable 2-isopropylmalate synthase 
+PA1222@Outer Membrane@@probable membrane-bound lytic murein transglycolase A 
+PA1224@Cytoplasmic@@probable NAD(P)H dehydrogenase 
+PA1225@Cytoplasmic@@probable NAD(P)H dehydrogenase 
+PA1240@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA1252@Cytoplasmic@@probable L-malate dehydrogenase 
+PA1254@Cytoplasmic@@probable dihydrodipicolinate synthetase 
+PA1256@Cytoplasmic Membrane@@amino acid ABC transporter ATP binding protein 
+PA1257@Cytoplasmic Membrane@@amino acid ABC transporter membrane protein 
+PA1258@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA4587@Periplasmic@ccpR@cytochrome c551 peroxidase precursor 
+PA1267@Cytoplasmic Membrane@@hypothetical protein 
+PA1268@Cytoplasmic@@hypothetical protein 
+PA1272@Cytoplasmic@cobO@cob(I)alamin adenosyltransferase 
+PA1273@Cytoplasmic@cobB@cobyrinic acid a
+PA1274@Unknown@@conserved hypothetical protein 
+PA1275@Cytoplasmic Membrane@cobD@cobalamin biosynthetic protein CobD cobalamin biosynthetic protein CbiB
+PA1276@Cytoplasmic@cobC@cobalamin biosynthetic protein CobC 
+PA1277@Cytoplasmic@cobQ@cobyric acid synthase 
+PA1278@Cytoplasmic@cobP@cobinamide kinase 
+PA1279@Cytoplasmic@cobU@nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase cobalamin biosynthesis protein cobU
+PA1280@Cytoplasmic@@hypothetical protein 
+PA1281@Cytoplasmic Membrane@cobV@cobalamin (5'-phosphate) synthase 
+PA1173@Periplasmic@napB@cytochrome c-type protein NapB precursor 
+PA1288@Outer Membrane@@probable outer membrane protein precursor 
+PA0869@Periplasmic@pbpG@D-alanyl-D-alanine-endopeptidase D-ala-D-ala-carboxypeptidase; penicillin-binding protein 7
+PA1310@Cytoplasmic@phnW@2-aminoethylphosphonate:pyruvate aminotransferase 
+PA1311@Cytoplasmic@phnX@2-phosphonoacetaldehyde hydrolase 
+PA1313@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA1317@Cytoplasmic Membrane@cyoA@cytochrome o ubiquinol oxidase subunit II 
+PA1318@Cytoplasmic Membrane@cyoB@cytochrome o ubiquinol oxidase subunit I 
+PA1319@Cytoplasmic Membrane@cyoC@cytochrome o ubiquinol oxidase subunit III 
+PA1320@Cytoplasmic Membrane@cyoD@cytochrome o ubiquinol oxidase subunit IV 
+PA1321@Cytoplasmic Membrane@cyoE@cytochrome o ubiquinol oxidase protein CyoE 
+PA1326@Cytoplasmic@ilvA2@threonine dehydratase
+PA5167@Periplasmic@dctP@DctP 
+PA5082@Periplasmic@dguC@DguC 
+PA1339@Cytoplasmic Membrane@aatP@AatP 
+PA1340@Cytoplasmic Membrane@aatM@AatM 
+PA1341@Cytoplasmic Membrane@aatQ@AatQ 
+PA4687@Periplasmic@hitA@ferric iron-binding periplasmic protein HitA 
+PA1343@Unknown@@hypothetical protein 
+PA1373@Cytoplasmic@fabF2@3-oxoacyl-acyl carrier protein synthase II 
+PA1375@Cytoplasmic@pdxB@erythronate-4-phosphate dehydrogenase 
+PA1384@Cytoplasmic@galE@UDP-glucose 4-epimerase galactowaldenase
+PA1393@Cytoplasmic@cysC@adenosine 5'-phosphosulfate (APS) kinase adenylylsulfate kinase; ATP:APS 3'-phosphotransferase
+PA1400@Cytoplasmic@@probable pyruvate carboxylase 
+PA4159@Periplasmic@fepB@ferrienterobactin-binding periplasmic protein precursor FepB 
+PA1417@Cytoplasmic@@probable decarboxylase 
+PA1419@Cytoplasmic Membrane@@probable transporter 
+PA1421@Cytoplasmic@gbuA@guanidinobutyrase agmatinase
+PA1429@Cytoplasmic Membrane@@probable cation-transporting P-type ATPase 
+PA1432@Cytoplasmic@lasI@autoinducer synthesis protein LasI 
+PA1470@Unknown@@probable short-chain dehydrogenase 
+PA1487@Cytoplasmic@@probable carbohydrate kinase 
+PA1338@Periplasmic@ggt@gamma-glutamyltranspeptidase precursor 
+PA1497@Cytoplasmic Membrane@@probable transporter 
+PA1498@Cytoplasmic@pykF@pyruvate kinase I Phosphoenolpyruvate kinase
+PA1499@Cytoplasmic@@conserved hypothetical protein 
+PA1500@Cytoplasmic@@probable oxidoreductase 
+PA1501@Cytoplasmic@@conserved hypothetical protein glyoxylate-induced protein
+PA1502@Cytoplasmic@gcl@glyoxylate carboligase 
+PA1507@Cytoplasmic Membrane@@probable transporter 
+PA1514@Unknown@@ureidoglycolate hydrolaseYbbT 
+PA1515@Cytoplasmic@alc@allantoicase 
+PA1516@Cytoplasmic@@hypothetical protein 
+PA1517@Cytoplasmic@@conserved hypothetical protein 
+PA1518@Unknown@@conserved hypothetical protein 
+PA1519@Cytoplasmic Membrane@@probable transporter 
+PA1521@Cytoplasmic@@probable guanine deaminase 
+PA1523@Cytoplasmic@xdhB@xanthine dehydrogenase 
+PA1524@Cytoplasmic@xdhA@xanthine dehydrogenase 
+PA1535@Cytoplasmic@@citronellyl-CoA dehydrogenase 
+PA1543@Cytoplasmic@apt@adenine phosphoribosyltransferase 
+PA1546@Cytoplasmic@hemN@oxygen-independent coproporphyrinogen III oxidase 
+PA1549@Cytoplasmic Membrane@@probable cation-transporting P-type ATPase 
+PA1552@Unknown@ccoP1@Cytochrome c oxidase
+PA1552.1@@ccoQ1@Cytochrome c oxidase
+PA1553@Cytoplasmic@ccoO1@Cytochrome c oxidase
+PA1554@Cytoplasmic Membrane@ccoN1@Cytochrome c oxidase
+PA1555@Unknown@ccoP2@Cytochrome c oxidase
+PA1556@Cytoplasmic@ccoO2@Cytochrome c oxidase
+PA1557@Cytoplasmic Membrane@ccoN2@Cytochrome c oxidase
+PA1562@Cytoplasmic@acnA@aconitate hydratase 1 aconitase
+PA1566@Cytoplasmic@pauA3@Glutamylpolyamine synthetase 
+PA1569@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA1580@Cytoplasmic@gltA@citrate synthase 
+PA1581@Cytoplasmic Membrane@sdhC@succinate dehydrogenase (C subunit) succinate dehydrogenase (cytochrome b-556 subunit)
+PA1582@Cytoplasmic Membrane@sdhD@succinate dehydrogenase (D subunit) succinate dehydrogenase hydrophobic membrane anchor protein
+PA1583@Cytoplasmic Membrane@sdhA@succinate dehydrogenase (A subunit) succinate dehydrogenase (flavoprotein subunit)
+PA1584@Cytoplasmic Membrane@sdhB@succinate dehydrogenase (B subunit) succinate dehydrogenase iron-sulfur protein
+PA1585@Cytoplasmic@sucA@2-oxoglutarate dehydrogenase (E1 subunit) alpha-ketoglutarate dehydrogenase
+PA1586@Cytoplasmic@sucB@dihydrolipoamide succinyltransferase (E2 subunit) 2-oxoglutarate dehydrogenase
+PA1587@Cytoplasmic@lpd@dihydrolipoamide dehydrogenase Lpd LPD-GLC
+PA1588@Cytoplasmic@sucC@succinyl-CoA synthetase beta chain 
+PA1589@Cytoplasmic@sucD@succinyl-CoA synthetase alpha chain 
+PA1590@Cytoplasmic Membrane@braB@branched chain amino acid transporter BraB protein
+PA1598@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA1601@Cytoplasmic Membrane@@probable aldehyde dehydrogenase 
+PA1609@Cytoplasmic@fabB@beta-ketoacyl-ACP synthase I FabB; KAS I
+PA1610@Cytoplasmic@fabA@beta-hydroxydecanoyl-ACP dehydrase FabA
+PA1614@Cytoplasmic@gpsA@glycerol-3-phosphate dehydrogenase
+PA1615@Cytoplasmic Membrane@@probable lipase 
+PA1617@Cytoplasmic@@probable AMP-binding enzyme 
+PA1620@Cytoplasmic Membrane@@hypothetical protein 
+PA1626@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA1628@Unknown@@probable 3-hydroxyacyl-CoA dehydrogenase 
+PA1629@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA1633@Cytoplasmic Membrane@kdpA@potassium-transporting ATPase
+PA1634@Cytoplasmic Membrane@kdpB@potassium-transporting ATPase
+PA1635@Cytoplasmic Membrane@kdpC@potassium-transporting ATPase
+PA1638@Cytoplasmic@@conserved hypothetical protein 
+PA1642@Cytoplasmic@selD@selenophosphate synthetase selenide
+PA1647@Cytoplasmic Membrane@@probable sulfate transporter 
+PA1651@Cytoplasmic Membrane@@probable transporter 
+PA1654@Cytoplasmic@@probable aminotransferase 
+PA1674@Cytoplasmic@folE2@GTP cyclohydrolase I precursor 
+PA1681@Cytoplasmic@aroC@chorismate synthase 5-enolpyruvylshikimate-3-phosphate phospholyase
+PA1683@Cytoplasmic@@probable sugar aldolase 
+PA1684@Cytoplasmic@@1
+PA1685@Unknown@masA@enolase-phosphatase E-1 
+PA1687@Cytoplasmic@speE@spermidine synthase 
+PA1736@Cytoplasmic@@probable acyl-CoA thiolase 
+PA1737@Cytoplasmic@@probable 3-hydroxyacyl-CoA dehydrogenase 
+PA1742@Cytoplasmic@pauD2@Glutamine amidotransferase class I 
+PA1748@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA1750@Cytoplasmic@@phospho-2-dehydro-3-deoxyheptonate aldolase 3-deoxy-d-arabino-heptulosonate 7-phosphate synthase
+PA1752@Cytoplasmic@@hypothetical protein 
+PA1756@Cytoplasmic@cysH@3'-phosphoadenosine-5'-phosphosulfate reductase PAPS reductase
+PA1757@Cytoplasmic@thrH@homoserine kinase 
+PA1758@Cytoplasmic@pabB@para-aminobenzoate synthase component I ADC-synthase
+PA1770@Cytoplasmic@ppsA@phosphoenolpyruvate synthase water dikinase; PEP synthase; Pyruvate
+PA1773@Cytoplasmic Membrane@cmaX@CmaX protein 
+PA1777@Outer Membrane@oprF@Major porin and structural outer membrane porin OprF precursor Porin F
+PA1778@Cytoplasmic@cobA@uroporphyrin-III C-methyltransferase S-adenosyl-L-methionine:uroporphyrinogen III
+PA1779@Cytoplasmic@@assimilatory nitrate reductase 
+PA1780@Unknown@nirD@assimilatory nitrite reductase small subunit 
+PA1781@Cytoplasmic@nirB@assimilatory nitrite reductase large subunit 
+PA1783@Cytoplasmic Membrane@nasA@nitrate transporter 
+PA1786@Cytoplasmic Membrane@nasS@NasS 
+PA1787@Cytoplasmic@acnB@aconitate hydratase 2 
+PA1792@Cytoplasmic@@conserved hypothetical protein 
+PA1794@Cytoplasmic@glnS@glutaminyl-tRNA synthetase glutamine-tRNA ligase
+PA1795@Cytoplasmic@cysS@cysteinyl-tRNA synthetase cysteine-tRNA ligase
+PA1796@Cytoplasmic@folD@5
+PA1806@Cytoplasmic Membrane@fabI@NADH-dependent enoyl-ACP reductase 
+PA1807@Cytoplasmic Membrane@nppD@NppD probable ATP-binding component of ABC transporter
+PA1808@Cytoplasmic Membrane@nppC@NppC probable permease of ABC transporter
+PA1809@Cytoplasmic Membrane@nppB@NppB probable permease of ABC transporter
+PA1337@Periplasmic@ansB@glutaminase-asparaginase 
+PA0347@Periplasmic@glpQ@glycerophosphoryl diester phosphodiesterase
+PA1813@Cytoplasmic@@probable hydroxyacylglutathione hydrolase probable glyoxalase II
+PA1818@Cytoplasmic@ldcA@lysine-specific pyridoxal 5'-phosphate-dependent carboxylase
+PA1819@Cytoplasmic Membrane@@probable amino acid permease 
+PA1820@Cytoplasmic Membrane@nhaB@sodium/proton antiporter NhaB 
+PA1821@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA1827@Cytoplasmic@@probable short-chain dehydrogenase 
+PA1838@Cytoplasmic@cysI@sulfite reductase 
+PA1843@Cytoplasmic@metH@methionine synthase 5-methyltetrahydrofolate--homocysteine S-methyltransferase
+PA1856@Cytoplasmic Membrane@@probable cytochrome oxidase subunit 
+PA1861@Cytoplasmic@modC@molybdenum transport protein ModC 
+PA1862@Cytoplasmic Membrane@modB@molybdenum transport protein ModB 
+PA4708@Periplasmic@phuT@Heme-transport protein
+PA1869@Cytoplasmic@@probable acyl carrier protein 
+PA1873@Cytoplasmic Membrane@@hypothetical protein 
+PA1883@Cytoplasmic Membrane@@probable NADH-ubiquinone/plastoquinone oxidoreductase 
+PA1899@Cytoplasmic@phzA2@probable phenazine biosynthesis protein 
+PA1900@Cytoplasmic@phzB2@probable phenazine biosynthesis protein 
+PA1901@Cytoplasmic@phzC2@phenazine biosynthesis protein PhzC 
+PA1902@Unknown@phzD2@phenazine biosynthesis protein PhzD 
+PA1903@Cytoplasmic@phzE2@phenazine biosynthesis protein PhzE 
+PA1904@Cytoplasmic@phzF2@probable phenazine biosynthesis protein 
+PA1905@Cytoplasmic@phzG2@probable pyridoxamine 5'-phosphate oxidase 
+PA1920@Cytoplasmic@nrdD@class III (anaerobic) ribonucleoside-triphosphate reductase subunit
+PA1923@Unknown@@hypothetical protein 
+PA1927@Cytoplasmic@metE@5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase cobalamin-independent methionine synthase
+PA1931@Cytoplasmic@@probable ferredoxin 
+PA1932@Cytoplasmic@@probable hydroxylase molybdopterin-containing subunit 
+PA1933@Cytoplasmic Membrane@@probable hydroxylase large subunit 
+PA3313@Periplasmic@@hypothetical protein 
+PA1947@Cytoplasmic Membrane@rbsA@ribose transport protein RbsA 
+PA1948@Cytoplasmic Membrane@rbsC@membrane protein component of ABC ribose transporter 
+PA1950@Cytoplasmic@rbsK@ribokinase 
+PA1957@Unknown@@hypothetical protein 
+PA1958@Cytoplasmic Membrane@@probable transporter 
+PA1959@Cytoplasmic Membrane@bacA@bacitracin resistance protein undecaprenol kinase
+PA1966@Cytoplasmic@@hypothetical protein 
+PA1971@Cytoplasmic Membrane@braZ@branched chain amino acid transporter BraZ 
+PA3779@Periplasmic@@hypothetical protein 
+PA1991@Cytoplasmic@@probable iron-containing alcohol dehydrogenase 
+PA1997@Cytoplasmic@@probable AMP-binding enzyme 
+PA1999@Cytoplasmic@dhcA@DhcA
+PA2000@Cytoplasmic@dhcB@DhcB
+PA2001@Cytoplasmic@atoB@acetyl-CoA acetyltransferase acetoacetyl-CoA thiolase
+PA2002@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA2003@Cytoplasmic@bdhA@3-hydroxybutyrate dehydrogenase D-beta-hydroxybutyrate dehydrogenase
+PA2004@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA2006@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA2007@Cytoplasmic@maiA@maleylacetoacetate isomerase glutathione transferase zeta 1
+PA2008@Cytoplasmic@fahA@fumarylacetoacetase fumarylacetoacetate hydrolase; beta-diketonase
+PA2009@Unknown@hmgA@homogentisate 1
+PA2011@Cytoplasmic@liuE@3-hydroxy-3-methylglutaryl-CoA lyase HMG-CoA lyase; HMG lyase
+PA2012@Cytoplasmic@liuD@methylcrotonyl-CoA carboxylase
+PA2013@Cytoplasmic@liuC@putative 3-methylglutaconyl-CoA hydratase gamma-carboxygeranoyl-CoA hydratase
+PA2014@Cytoplasmic@liuB@methylcrotonyl-CoA carboxylase
+PA2015@Cytoplasmic@liuA@putative isovaleryl-CoA dehydrogenase Ivd; Citronelloyl-CoA dehydrogenase
+PA2022@Unknown@@probable nucleotide sugar dehydrogenase 
+PA2023@Cytoplasmic@galU@UTP--glucose-1-phosphate uridylyltransferase glucose-1-phosphate uridylyltransferase; UDP-glucose pyrophosphorylase
+PA2025@Cytoplasmic@gor@glutathione reductase 
+PA2035@Cytoplasmic@@probable decarboxylase 
+PA2040@Cytoplasmic@pauA4@Glutamylpolyamine synthetase 
+PA2052@Cytoplasmic@cynS@cyanate lyase cyanate hydrolase; cyanase
+PA2053@Cytoplasmic@cynT@carbonate dehydratase carbonic anhydrase
+PA5184@Periplasmic@@hypothetical protein 
+PA2059@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2060@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2061@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2073@Cytoplasmic Membrane@@probable transporter (membrane subunit) 
+PA2080@Cytoplasmic@kynU@kynureninase KynU 
+PA2081@Cytoplasmic@kynB@kynurenine formamidase
+PA2084@Cytoplasmic@@probable asparagine synthetase 
+PA2104@Cytoplasmic@@probable cysteine synthase probable O-acetylserine sulfhydrylase
+PA2105@Cytoplasmic@@probable acetyltransferase 
+PA2108@Cytoplasmic Membrane@@probable decarboxylase 
+PA2110@Cytoplasmic@@hypothetical protein 
+PA2119@Cytoplasmic@@alcohol dehydrogenase (Zn-dependent) 
+PA2125@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA2135@Cytoplasmic Membrane@@probable transporter 
+PA2144@Cytoplasmic@glgP@glycogen phosphorylase 
+PA2147@Cytoplasmic@katE@catalase HPII 
+PA2152@Cytoplasmic@@probable trehalose synthase 
+PA2153@Cytoplasmic@glgB@1
+PA2155@Cytoplasmic Membrane@@probable phospholipase 
+PA2158@Cytoplasmic@@probable alcohol dehydrogenase (Zn-dependent) 
+PA2165@Cytoplasmic@@probable glycogen synthase 
+PA2188@Cytoplasmic@@probable alcohol dehydrogenase (Zn-dependent) 
+PA2191@Extracellular@exoY@adenylate cyclase ExoY 
+PA2202@Cytoplasmic Membrane@@probable amino acid permease 
+PA2203@Cytoplasmic Membrane@@probable amino acid permease 
+PA0314@Periplasmic@@L-cysteine transporter of ABC system FliY 
+PA2212@Cytoplasmic@@conserved hypothetical protein 
+PA2213@Outer Membrane@@probable porin 
+PA2217@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA2232@Cytoplasmic@pslB@PslB 
+PA2247@Cytoplasmic@bkdA1@2-oxoisovalerate dehydrogenase (alpha subunit) branched-chain alpha-keto acid decarboxylase; 3-methyl-2-oxobutanoate dehydrogenase (lipoamide)
+PA2248@Cytoplasmic@bkdA2@2-oxoisovalerate dehydrogenase (beta subunit) branched-chain alpha-keto acid decarboxylase; 3-methyl-2-oxobutanoate dehydrogenase
+PA2249@Cytoplasmic@bkdB@branched-chain alpha-keto acid dehydrogenase (lipoamide component) dihydrolipoamide branched chain transacylase
+PA2250@Cytoplasmic@lpdV@lipoamide dehydrogenase-Val lipoamide dehydrogenase (E3 subunit); Lpd-Val
+PA2252@Cytoplasmic Membrane@@probable AGCS sodium/alanine/glycine symporter probable amino acid transporter
+PA2253@Cytoplasmic@ansA@L-asparaginase I 
+PA2261@Cytoplasmic@@probable 2-ketogluconate kinase 
+PA2262@Cytoplasmic Membrane@@probable 2-ketogluconate transporter 
+PA2263@Cytoplasmic@@probable 2-hydroxyacid dehydrogenase 
+PA2264@Unknown@@conserved hypothetical protein 
+PA2265@Unknown@@gluconate dehydrogenase 
+PA2266@Unknown@@probable cytochrome c precursor 
+PA2272@Cytoplasmic Membrane@pbpC@penicillin-binding protein 3A 
+PA2275@Cytoplasmic@@probable alcohol dehydrogenase (Zn-dependent) 
+PA2290@Cytoplasmic Membrane@gcd@glucose dehydrogenase 
+PA2291@Outer Membrane@@probable glucose-sensitive porin 
+PA2294@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2295@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2296@Unknown@@hypothetical protein 
+PA2306@Cytoplasmic Membrane@ambA@AmbA 
+PA2307@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2308@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2309@Unknown@@hypothetical protein 
+PA2310@Cytoplasmic@@hypothetical protein 
+PA2321@Unknown@@gluconokinase gluconate kinase
+PA2322@Cytoplasmic Membrane@@gluconate permease 
+PA2323@Cytoplasmic@@probable glyceraldehyde-3-phosphate dehydrogenase triosephosphate dehydrogenase
+PA2327@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2328@Cytoplasmic Membrane@@hypothetical protein 
+PA2329@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2338@Unknown@@probable binding protein component of ABC maltose/mannitol transporter 
+PA2339@Cytoplasmic Membrane@@probable binding-protein-dependent maltose/mannitol transport protein 
+PA2340@Cytoplasmic Membrane@@probable binding-protein-dependent maltose/mannitol transport protein 
+PA2341@Cytoplasmic Membrane@@probable ATP-binding component of ABC maltose/mannitol transporter 
+PA2342@Cytoplasmic@mtlD@mannitol dehydrogenase 
+PA2343@Cytoplasmic@mtlY@xylulose kinase 
+PA2344@Unknown@mtlZ@fructokinase 
+PA2349@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA2350@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2351@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA1863@Periplasmic@modA@molybdate-binding periplasmic protein precursor ModA 
+PA2356@Cytoplasmic@msuD@methanesulfonate sulfonatase MsuD 
+PA2357@Unknown@msuE@NADH-dependent FMN reductase MsuE 
+PA2366@Cytoplasmic Membrane@hsiC3@HsiC3 uricase PuuD
+PA2378@Cytoplasmic Membrane@@probable aldehyde dehydrogenase 
+PA2382@Cytoplasmic@lldA@L-lactate dehydrogenase 
+PA0519@Periplasmic@nirS@nitrite reductase precursor cytochrome oxidase; cytochrome cd1
+PA2398@Outer Membrane@fpvA@ferripyoverdine receptor 
+PA3392@Periplasmic@nosZ@nitrous-oxide reductase precursor 
+PA2408@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2409@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2410@Unknown@@hypothetical protein 
+PA2413@Cytoplasmic@pvdH@L-2
+PA1811@Periplasmic@nppA1@NppA1 probable solute-binding protein
+PA2420@Outer Membrane@@probable porin 
+PA2435@Cytoplasmic Membrane@@probable cation-transporting P-type ATPase 
+PA2442@Cytoplasmic@gcvT2@glycine cleavage system protein T2 aminomethyltransferase
+PA2443@Cytoplasmic@sdaA@L-serine dehydratase L-serine deaminase
+PA2444@Cytoplasmic@glyA2@serine hydroxymethyltransferase 
+PA2445@Cytoplasmic@gcvP2@glycine cleavage system protein P2 glycine decarboxylase
+PA2446@Unknown@gcvH2@glycine cleavage system protein H2 
+PA2472@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA2473@Unknown@@probable glutathione S-transferase 
+PA2500@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA2507@Cytoplasmic@catA@catechol 1
+PA2508@Cytoplasmic@catC@muconolactone delta-isomerase 
+PA2509@Cytoplasmic@catB@muconate cycloisomerase I cis; cis-muconate lactonizing enzyme I
+PA2515@Cytoplasmic@xylL@cis-1
+PA2516@Cytoplasmic@xylZ@toluate 1
+PA2517@Cytoplasmic@xylY@toluate 1
+PA2518@Cytoplasmic@xylX@toluate 1
+PA2520@Cytoplasmic Membrane@czcA@Resistance-Nodulation-Cell Division (RND) divalent metal cation efflux transporter CzcA RND divalent metal cation efflux transporter CzcA
+PA2521@Cytoplasmic Membrane@czcB@Resistance-Nodulation-Cell Division (RND) divalent metal cation efflux membrane fusion protein CzcB precursor RND divalent metal cation efflux membrane fusion protein CzcB precursor
+PA2522@Outer Membrane@czcC@outer membrane protein precursor CzcC 
+PA2531@Unknown@@probable aminotransferase 
+PA2533@Cytoplasmic Membrane@@probable sodium:alanine symporter 
+PA2536@Cytoplasmic Membrane@@probable phosphatidate cytidylyltransferase 
+PA2537@Unknown@@probable acyltransferase 
+PA2541@Cytoplasmic Membrane@@probable CDP-alcohol phosphatidyltransferase 
+PA2548@Cytoplasmic Membrane@@hypothetical protein 
+PA2550@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA2552@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA2553@Cytoplasmic@@probable acyl-CoA thiolase 
+PA2555@Cytoplasmic@@probable AMP-binding enzyme 
+PA2557@Cytoplasmic@@probable AMP-binding enzyme 
+PA2563@Cytoplasmic Membrane@@probable sulfate transporter 
+PA2579@Cytoplasmic@kynA@L-Tryptophan:oxygen 2
+PA2584@Cytoplasmic Membrane@pgsA@CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase phosphatidylglycerophosphate synthase
+PA2587@Cytoplasmic@pqsH@probable FAD-dependent monooxygenase 
+PA1810@Periplasmic@nppA2@NppA2 probable binding protein component of ABC transporter
+PA2594@Unknown@@conserved hypothetical protein 
+PA2595@Unknown@@conserved hypothetical protein 
+PA2596@Unknown@@conserved hypothetical protein 
+PA2598@Cytoplasmic@@hypothetical protein 
+PA2599@Unknown@@conserved hypothetical protein 
+PA2600@Cytoplasmic@@hypothetical protein 
+PA2611@Cytoplasmic@cysG@siroheme synthase uroporphyrinogen III methylase
+PA2612@Cytoplasmic@serS@seryl-tRNA synthetase 
+PA2616@Unknown@trxB1@thioredoxin reductase 1 
+PA2623@Cytoplasmic@icd@isocitrate dehydrogenase oxalosuccinate decarboxylase; IDH
+PA2624@Unknown@idh@isocitrate dehydrogenase 
+PA2629@Cytoplasmic@purB@adenylosuccinate lyase 
+PA2634@Cytoplasmic@aceA@isocitrate lyase AceA isocitrate lyase 
+PA2637@Cytoplasmic Membrane@nuoA@NADH dehydrogenase I chain A 
+PA2638@Cytoplasmic Membrane@nuoB@NADH dehydrogenase I chain B 
+PA2639@Cytoplasmic@nuoD@NADH dehydrogenase I chain C
+PA2640@Cytoplasmic@nuoE@NADH dehydrogenase I chain E 
+PA2641@Cytoplasmic@nuoF@NADH dehydrogenase I chain F 
+PA2642@Unknown@nuoG@NADH dehydrogenase I chain G 
+PA2643@Cytoplasmic Membrane@nuoH@NADH dehydrogenase I chain H 
+PA2644@Cytoplasmic@nuoI@NADH Dehydrogenase I chain I 
+PA2645@Cytoplasmic Membrane@nuoJ@NADH dehydrogenase I chain J 
+PA2646@Cytoplasmic Membrane@nuoK@NADH dehydrogenase I chain K 
+PA2647@Cytoplasmic Membrane@nuoL@NADH dehydrogenase I chain L 
+PA2648@Cytoplasmic Membrane@nuoM@NADH dehydrogenase I chain M 
+PA2649@Cytoplasmic Membrane@nuoN@NADH dehydrogenase I chain N 
+PA2653@Cytoplasmic Membrane@@probable transporter 
+PA2664@Cytoplasmic@fhp@flavohemoprotein 
+PA2666@Cytoplasmic@@probable 6-pyruvoyl tetrahydrobiopterin synthase 
+PA2680@Cytoplasmic@@probable quinone oxidoreductase 
+PA2683@Cytoplasmic@@probable serine/threonine dehydratase
+PA2688@Outer Membrane@pfeA@Ferric enterobactin receptor
+PA2691@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA2709@Cytoplasmic@cysK@cysteine synthase A O-acetylserine sulfhydrolase A
+PA2710@Cytoplasmic Membrane@@hypothetical protein 
+PA4204@Periplasmic@ppgL@periplasmic gluconolactonase
+PA2739@Cytoplasmic@pheT@phenylalanyl-tRNA synthetase
+PA2740@Cytoplasmic@pheS@phenylalanyl-tRNA synthetase
+PA2744@Cytoplasmic@thrS@threonyl-tRNA synthetase 
+PA2748@Cytoplasmic@@probable methionine aminopeptidase 
+PA2760@Outer Membrane@oprQ@OprQ 
+PA2767@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA2777@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA2796@Cytoplasmic@tal@transaldolase dihydroxyacetone transferase
+PA2815@Cytoplasmic Membrane@@probable acyl-CoA dehydrogenase 
+PA2826@Cytoplasmic@@probable glutathione peroxidase 
+PA2828@Cytoplasmic@@probable aminotransferase 
+PA2841@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA2843@Cytoplasmic@@probable aldolase 
+PA2856@Unknown@tesA@lysophospholipase A lecithinase B; lysophospholipase L1; TesA
+PA2876@Cytoplasmic@pyrF@orotidine 5'-phosphate decarboxylase 
+PA2893@Cytoplasmic@atuH@putative very-long chain acyl-CoA synthetase putative short chain dehydrogenase involved in catabolism of citronellol
+PA2902@Unknown@@hypothetical protein 
+PA2903@Cytoplasmic@cobJ@precorrin-3 methylase CobJ 
+PA2904@Cytoplasmic@cobI@precorrin-2 methyltransferase CobI 
+PA2905@Cytoplasmic@cobH@precorrin isomerase CobH 
+PA2906@Cytoplasmic@@probable oxidoreductase 
+PA2907@Cytoplasmic@cobL@precorrin-6y-dependent methyltransferase CobL 
+PA2908@Unknown@cbiD@cobalamin biosynthetic protein CbiD 
+PA2909@Cytoplasmic@@hypothetical protein 
+PA2912@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA2913@Unknown@@hypothetical protein 
+PA2914@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2916@Cytoplasmic Membrane@@hypothetical protein 
+PA2923@Periplasmic@hisJ@periplasmic histidine-binding protein HisJ 
+PA2924@Cytoplasmic Membrane@hisQ@histidine transport system permease HisQ 
+PA2925@Cytoplasmic Membrane@hisM@histidine transport system permease HisM 
+PA2926@Cytoplasmic Membrane@hisP@histidine transport protein HisP 
+PA2929@Cytoplasmic Membrane@@hypothetical protein 
+PA2932@Cytoplasmic@morB@morphinone reductase 
+PA2938@Cytoplasmic Membrane@@probable transporter 
+PA2940@Cytoplasmic@@probable acyl-CoA thiolase 
+PA2943@Cytoplasmic@@phospho-2-dehydro-3-deoxyheptonate aldolase 3-deoxy-d-arabinoheptulosonate-7-phosphate synthase
+PA2944@Cytoplasmic@cobN@cobalamin biosynthetic protein CobN 
+PA2947@Unknown@@hypothetical protein 
+PA2948@Cytoplasmic@cobM@precorrin-3 methylase 
+PA2949@Unknown@@probable lipase 
+PA2950@Cytoplasmic@pfm @proton motive force protein
+PA2953@Cytoplasmic@@electron transfer flavoprotein-ubiquinone oxidoreductase 
+PA2962@Cytoplasmic@tmk@thymidylate kinase 
+PA2964@Cytoplasmic@pabC@4-amino-4-deoxychorismate lyase 
+PA2965@Cytoplasmic Membrane@fabF1@beta-ketoacyl-acyl carrier protein synthase II FabF protein
+PA2966@Cytoplasmic@acpP@acyl carrier protein 
+PA2967@Cytoplasmic@fabG@3-oxoacyl-[acyl-carrier-protein] reductase FabG protein; beta-ketoacyl acyl carrier protein reductase
+PA2968@Cytoplasmic@fabD@malonyl-CoA-[acyl-carrier-protein] transacylase FabD protein
+PA2969@Cytoplasmic@plsX@fatty acid biosynthesis protein PlsX 
+PA2974@Cytoplasmic@@probable hydrolase 
+PA2977@Cytoplasmic@murB@UDP-N-acetylpyruvoylglucosamine reductase 
+PA2979@Cytoplasmic@kdsB@3-deoxy-manno-octulosonate cytidylyltransferase CMP-KDO synthetase
+PA2981@Cytoplasmic@lpxK@tetraacyldisaccharide 4*-kinase lipid a 4*-kinase
+PA2990@Cytoplasmic@@probable phosphodiesterase 
+PA2991@Cytoplasmic@sth@soluble pyridine nucleotide transhydrogenase 
+PA3000@Cytoplasmic Membrane@aroP1@aromatic amino acid transport protein AroP1 
+PA3001@Cytoplasmic@@probable glyceraldehyde-3-phosphate dehydrogenase 
+PA3004@Cytoplasmic@@5-methylthioadenosine phosphorylase MtnP S-methyl-5'-thioinosine phosphorylase
+PA3005@Cytoplasmic@nagZ@beta-N-acetyl-D-glucosaminidase 
+PA3013@Cytoplasmic@foaB@fatty-acid oxidation complex beta-subunit 3-ketoacyl-coA thiolase
+PA3014@Cytoplasmic@faoA@fatty-acid oxidation complex alpha-subunit 
+PA1174@Periplasmic@napA@periplasmic nitrate reductase protein NapA 
+PA3025@Cytoplasmic@@probable FAD-dependent glycerol-3-phosphate dehydrogenase 
+PA3038@Outer Membrane@@probable porin 
+PA3039@Cytoplasmic Membrane@@probable transporter 
+PA3043@Cytoplasmic@@conserved hypothetical protein 
+PA2416@Periplasmic@treA@periplasmic trehalase precursor 
+PA3050@Cytoplasmic Membrane@pyrD@dihydroorotate dehydrogenase 
+PA3068@Cytoplasmic@gdhB@NAD-dependent glutamate dehydrogenase 
+PA3082@Outer Membrane@gbt@glycine betaine transmethylase 
+PA3083@Cytoplasmic@pepN@aminopeptidase N 
+PA3088@Cytoplasmic@@conserved hypothetical protein 
+PA3092@Cytoplasmic@fadH1@2
+PA3107@Cytoplasmic@metZ@o-succinylhomoserine sulfhydrylase 
+PA3108@Cytoplasmic@purF@amidophosphoribosyltransferase glutamine phosphoribosylpyrophosphate amidotransferase
+PA3111@Cytoplasmic@folC@folylpolyglutamate synthetase dihydrofolate synthetase
+PA3112@Cytoplasmic@accD@acetyl-CoA carboxylase beta subunit 
+PA3113@Cytoplasmic@trpF@N-(5'phosphoribosyl)anthranilate (PRA) isomerase 
+PA3116@Cytoplasmic@@probable aspartate-semialdehyde dehydrogenase 
+PA3117@Cytoplasmic@asd@aspartate semialdehyde dehydrogenase 
+PA3118@Cytoplasmic@leuB@3-isopropylmalate dehydrogenase 
+PA3120@Cytoplasmic@leuD@3-isopropylmalate dehydratase small subunit 
+PA3121@Cytoplasmic@leuC@3-isopropylmalate dehydratase large subunit 
+PA3131@Cytoplasmic@@probable aldolase 4-hydroxy-2-oxoglutarate aldolase; 2-keto-3-deoxy-6-phosphogluconate aldolase
+PA3134@Cytoplasmic@gltX@glutamyl-tRNA synthetase 
+PA3139@Cytoplasmic@@probable amino acid aminotransferase 
+PA3141@Cytoplasmic Membrane@wbpM@nucleotide sugar epimerase/dehydratase WbpM 
+PA3145@Cytoplasmic Membrane@wbpL@glycosyltransferase WbpL 
+PA3146@Cytoplasmic@wbpK@probable NAD-dependent epimerase/dehydratase WbpK 
+PA3147@Cytoplasmic Membrane@wbpJ@probable glycosyl transferase WbpJ 
+PA3148@Cytoplasmic@wbpI@UDP-N-acetylglucosamine 2-epimerase WbpI 
+PA3149@Cytoplasmic@wbpH@probable glycosyltransferase WbpH 
+PA3150@Cytoplasmic@wbpG@LPS biosynthesis protein WbpG 
+PA3151@Cytoplasmic@hisF2@imidazoleglycerol-phosphate synthase
+PA3152@Cytoplasmic@hisH2@glutamine amidotransferase 
+PA3153@Cytoplasmic Membrane@wzx@O-antigen translocase O-antigen flippase
+PA3154@Cytoplasmic Membrane@wzy@B-band O-antigen polymerase 
+PA3155@Cytoplasmic@wbpE@UDP-2-acetamido-2-dideoxy-d-ribo-hex-3-uluronic acid transaminase
+PA3156@Cytoplasmic@wbpD@UDP-2-acetamido-3-amino-2
+PA3158@Cytoplasmic@wbpB@UDP-2-acetamido-2-deoxy-d-glucuronic acid 3-dehydrogenase
+PA3159@Cytoplasmic@wbpA@UDP-N-acetyl-d-glucosamine 6-Dehydrogenase 
+PA3163@Cytoplasmic@cmk@cytidylate kinase cytidine monophosphate kinase
+PA3164@@@
+PA3165@Cytoplasmic@hisC2@histidinol-phosphate aminotransferase imidazole acetol-phosphate transaminase
+PA3166@Cytoplasmic@pheA@chorismate mutase prephenate dehydratase
+PA3167@Cytoplasmic@serC@3-phosphoserine aminotransferase 
+PA3169@Cytoplasmic@@5-methylthioribose-1-phosphate isomerase MtnA probable initiation factor 2 subunit (class 3)
+PA3171@Cytoplasmic@ubiG@3-demethylubiquinone-9 3-methyltransferase 
+PA3172@Cytoplasmic@@probable hydrolase 
+PA3175@Cytoplasmic@@probable arginase family protein 
+PA3176@Cytoplasmic Membrane@gltS@glutamate/sodium ion symporter
+PA3181@Cytoplasmic@@2-keto-3-deoxy-6-phosphogluconate aldolase KDPG-aldolase
+PA3182@Unknown@pgl@6-phosphogluconolactonase 
+PA3183@Cytoplasmic@zwf@glucose-6-phosphate 1-dehydrogenase G6PD
+PA3186@Outer Membrane@oprB@Glucose/carbohydrate outer membrane porin OprB precursor D1; carbohydrate-selective porin OprB
+PA3187@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA3188@Cytoplasmic Membrane@@probable permease of ABC sugar transporter 
+PA3189@Cytoplasmic Membrane@@probable permease of ABC sugar transporter 
+PA3975@Periplasmic@thiD@phosphomethylpyrimidine kinase HMP-P kinase
+PA3193@Cytoplasmic@glk@glucokinase 
+PA3194@Cytoplasmic@edd@phosphogluconate dehydratase 6-phosphogluconate dehydratase
+PA3195@Cytoplasmic@gapA@glyceraldehyde 3-phosphate dehydrogenase GAPDH; NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+PA3210@Cytoplasmic Membrane@trkH@potassium uptake protein TrkH 
+PA3234@Cytoplasmic Membrane@@probable sodium:solute symporter 
+PA3236@Unknown@betX@BetX betaine-specific binding protein
+PA3242@Cytoplasmic Membrane@@probable lauroyl acyltransferase 
+PA3247@Cytoplasmic@@hypothetical protein 
+PA3267@Cytoplasmic Membrane@@hypothetical protein 
+PA3268@Outer Membrane@@probable TonB-dependent receptor 
+PA3279@Outer Membrane@oprP@Phosphate-specific outer membrane porin OprP precursor porin P
+PA3280@Outer Membrane@oprO@Pyrophosphate-specific outer membrane porin OprO precursor porin O
+PA3286@Cytoplasmic@@hypothetical protein 
+PA3295@Cytoplasmic@@probable HIT family protein 
+PA0300@Periplasmic@spuD@polyamine transport protein 
+PA3299@Cytoplasmic@fadD1@long-chain-fatty-acid--CoA ligase acyl coenzyme A synthetase
+PA3300@Cytoplasmic@fadD2@long-chain-fatty-acid--CoA ligase acyl coenzyme A synthetase
+PA3301@Cytoplasmic@@hypothetical protein 
+PA0301@Periplasmic@spuE@polyamine transport protein 
+PA3314@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA3315@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA3316@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA3319@Extracellular@plcN@non-hemolytic phospholipase C precursor 
+PA3333@Cytoplasmic@fabH2@3-oxoacyl-[acyl-carrier-protein] synthase III acetyl CoA ACP transacetylase; beta-ketoacyl-ACP synthase III
+PA3334@Unknown@@probable acyl carrier protein 
+PA3337@Cytoplasmic@rfaD@ADP-L-glycero-D-mannoheptose 6-epimerase ADP-glyceromanno-heptose 6-epimerase.
+PA3356@Cytoplasmic@pauA5@Glutamylpolyamine synthetase 
+PA3357@Cytoplasmic@dsdA@D-serine dehydratase D-serine deaminase
+PA3364@Cytoplasmic@amiC@aliphatic amidase expression-regulating protein 
+PA3366@Cytoplasmic@amiE@aliphatic amidase 
+PA3382@Cytoplasmic Membrane@phnE@phosphonate transport protein PhnE 
+PA3610@Periplasmic@potD@polyamine transport protein PotD 
+PA3384@Cytoplasmic Membrane@phnC@ATP-binding component of ABC phosphonate transporter 
+PA3387@Cytoplasmic@rhlG@beta-ketoacyl reductase 
+PA1292@Periplasmic@@probable 3-mercaptopyruvate sulfurtransferase 
+PA3394@Cytoplasmic@nosF@NosF protein 
+PA3395@Cytoplasmic Membrane@nosY@NosY protein 
+PA3397@Cytoplasmic@fprA@FprA NADPH:ferredoxin reductase; NADP+-dependent ferredoxin reductase; FPR
+PA3415@Cytoplasmic@@probable dihydrolipoamide acetyltransferase 
+PA3416@Unknown@@probable pyruvate dehydrogenase E1 component
+PA3417@Cytoplasmic@@probable pyruvate dehydrogenase E1 component
+PA3418@Cytoplasmic@ldh@leucine dehydrogenase 
+PA3426@Cytoplasmic@@probable enoyl CoA-hydratase/isomerase 
+PA3438@Cytoplasmic@folE1@GTP cyclohydrolase I precursor 
+PA3442@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA3443@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA3444@Cytoplasmic@@conserved hypothetical protein 
+PA3445@Unknown@@conserved hypothetical protein 
+PA3446@Unknown@@conserved hypothetical protein 
+PA3447@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA3448@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA3449@Unknown@@conserved hypothetical protein 
+PA3452@Cytoplasmic@mqoA@malate:quinone oxidoreductase malate dehydrogenase
+PA3454@Cytoplasmic@@probable acyl-CoA thiolase 
+PA3459@Cytoplasmic@@probable glutamine amidotransferase 
+PA3471@Cytoplasmic@@probable malic enzyme probable malate dehydrogenase
+PA0190@Periplasmic@@probable acid phosphatase 
+PA3476@Unknown@rhlI@autoinducer synthesis protein RhlI 
+PA3478@Cytoplasmic@rhlB@rhamnosyltransferase chain B 
+PA3479@Cytoplasmic@rhlA@rhamnosyltransferase chain A 
+PA3480@Cytoplasmic@@probable deoxycytidine triphosphate deaminase dCTP deaminase
+PA3482@Cytoplasmic@metG@methionyl-tRNA synthetase 
+PA5498@Periplasmic@znuA@probable adhesin 
+PA3504@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA3506@Cytoplasmic@@probable decarboxylase 
+PA3512@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA3513@Unknown@@hypothetical protein 
+PA3514@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA3516@Cytoplasmic@@probable lyase 
+PA3517@Cytoplasmic@@probable lyase 
+PA3524@Cytoplasmic@gloA1@lactoylglutathione lyase S-D-lactoylglutathione methylglyoxal lyase; ketone-aldehyde mutase; aldoketomutase; glyoxalase I; methylglyoxalase
+PA3525@Cytoplasmic@argG@argininosuccinate synthase 
+PA3527@Cytoplasmic@pyrC@dihydroorotase 
+PA3531@Cytoplasmic@bfrB@bacterioferritin cytochrome b-1 (cytochrome b-557)
+PA3537@Cytoplasmic@argF@ornithine carbamoyltransferase
+PA3538@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA3540@Cytoplasmic@algD@GDP-mannose 6-dehydrogenase AlgD 
+PA3541@Cytoplasmic Membrane@alg8@alginate biosynthesis protein Alg8 
+PA2407@Periplasmic@@probable adhesion protein 
+PA3865@Periplasmic@@probable amino acid binding protein 
+PA3544@Outer Membrane@algE@Alginate production outer membrane protein AlgE precursor alginate production protein AlgE
+PA5317@Periplasmic@@probable binding protein component of ABC dipeptide transporter 
+PA3548@Cytoplasmic Membrane@algI@alginate o-acetyltransferase AlgI 
+PA3549@Cytoplasmic Membrane@algJ@alginate o-acetyltransferase AlgJ 
+PA5217@Periplasmic@@probable binding protein component of ABC iron transporter 
+PA3551@Cytoplasmic@algA@phosphomannose isomerase / guanosine 5'-diphospho-D-mannose pyrophosphorylase Alginate biosynthesis protein AlgA
+PA3552@Cytoplasmic@arnB@ArnB ArnB 
+PA3553@Cytoplasmic Membrane@arnC@ArnC ArnC 
+PA3554@Cytoplasmic@arnA@ArnA PmrI; ArnA 
+PA3555@Cytoplasmic@arnD@ArnD ArnD 
+PA3556@Cytoplasmic Membrane@arnT@inner membrane L-Ara4N transferase ArnT pmrK
+PA3557@Cytoplasmic Membrane@arnE@ArnE ArnE 
+PA3558@Cytoplasmic Membrane@arnF@ArnF ArnF 
+PA3559@Cytoplasmic@@probable nucleotide sugar dehydrogenase 
+PA3560@Cytoplasmic Membrane@fruA@phosphotransferase system transporter fructose-specific IIBC component
+PA3561@Cytoplasmic@fruK@1-phosphofructokinase fructose-1-phosphate kinase
+PA3562@Unknown@fruI@phosphotransferase system transporter enzyme I
+PA3568@Cytoplasmic@@probable acetyl-coa synthetase 
+PA3569@Cytoplasmic@mmsB@3-hydroxyisobutyrate dehydrogenase 
+PA3570@Cytoplasmic@mmsA@methylmalonate-semialdehyde dehydrogenase 
+PA3579@Cytoplasmic@@probable carbohydrate kinase 
+PA3581@Cytoplasmic Membrane@glpF@glycerol uptake facilitator protein Glycerol diffusion facilitator
+PA3582@Cytoplasmic@glpK@glycerol kinase Glycerokinase
+PA3584@Cytoplasmic@glpD@glycerol-3-phosphate dehydrogenase 
+PA3588@Outer Membrane@@probable porin 
+PA3589@Cytoplasmic@@probable acyl-CoA thiolase 
+PA3590@Cytoplasmic@@probable hydroxyacyl-CoA dehydrogenase 
+PA3591@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA3602@Cytoplasmic@@conserved hypothetical protein 
+PA3603@Cytoplasmic Membrane@dgkA@diacylglycerol kinase diglyceride kinase
+PA3607@Cytoplasmic Membrane@potA@polyamine transport protein PotA 
+PA3608@Cytoplasmic Membrane@potB@polyamine transport protein PotB 
+PA3609@Cytoplasmic Membrane@potC@polyamine transport protein PotC 
+PA3190@Periplasmic@@probable binding protein component of ABC sugar transporter 
+PA3625@Unknown@surE@survival protein SurE 
+PA3627@Cytoplasmic@ygbB@2C-methyl-D-erythritol 2
+PA3629@Cytoplasmic@adhC@alcohol dehydrogenase class III glutathione-dependent formaldehyde dehydrogenase
+PA3633@Cytoplasmic@ygbP@4-diphosphocytidyl-2-C-methylerythritol synthase YgbP protein
+PA3635@Cytoplasmic@eno@enolase phosphopyruvate hydratase; 2-phosphoglycerate dehydratase
+PA3636@Cytoplasmic@kdsA@2-dehydro-3-deoxyphosphooctonate aldolase 3-deoxy-D-manno-octulosonic acid 8-phosphate synthetase; Kdo-8-P synthase
+PA3637@Cytoplasmic@pyrG@CTP synthase UTP--ammonia ligase
+PA3639@Cytoplasmic@accA@acetyl-coenzyme A carboxylase carboxyl transferase (alpha subunit) 
+PA3641@Cytoplasmic Membrane@@probable amino acid permease 
+PA3643@Cytoplasmic@lpxB@lipid A-disaccharide synthase 
+PA3644@Cytoplasmic@lpxA@UDP-N-acetylglucosamine acyltransferase acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PA3645@Cytoplasmic@fabZ@(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase 
+PA3646@Cytoplasmic@lpxD@UDP-3-O-[3-hydroxylauroyl] glucosamine N-acyltransferase FirA protein
+PA3650@Unknown@dxr@1-deoxy-d-xylulose 5-phosphate reductoisomerase 
+PA3651@Cytoplasmic Membrane@cdsA@phosphatidate cytidylyltransferase CDP-diglyceride pyrophosphorylase; CDP-diacylglycerol synthase
+PA3652@Cytoplasmic@uppS@undecaprenyl pyrophosphate synthetase 
+PA3654@Cytoplasmic@pyrH@uridylate kinase uridine monophosphate kinase
+PA3657@Cytoplasmic@map@methionine aminopeptidase MAP; peptidase M
+PA3659@Cytoplasmic@@probable aminotransferase 
+PA3660@Cytoplasmic Membrane@@probable sodium/hydrogen antiporter 
+PA3665@Cytoplasmic Membrane@@hypothetical protein 
+PA3666@Unknown@dapD@tetrahydrodipicolinate succinylase 
+PA3673@Cytoplasmic Membrane@plsB@glycerol-3-phosphate acyltransferase 
+PA3686@Cytoplasmic@adk@adenylate kinase 
+PA3687@Cytoplasmic@ppc@phosphoenolpyruvate carboxylase PEPC
+PA3690@Cytoplasmic Membrane@@probable metal-transporting P-type ATPase 
+PA3700@Cytoplasmic@lysS@lysyl-tRNA synthetase 
+PA3710@Cytoplasmic Membrane@@probable GMC-type oxidoreductase 
+PA3713@Cytoplasmic@spdH@spermidine dehydrogenase
+PA3727@Cytoplasmic@@hypothetical protein 
+PA3735@Cytoplasmic@thrC@threonine synthase 
+PA3736@Cytoplasmic@hom@homoserine dehydrogenase 
+PA3739@Cytoplasmic Membrane@@probable sodium/hydrogen antiporter 
+PA3751@Cytoplasmic Membrane@purT@phosphoribosylglycinamide formyltransferase 2 glycinamide ribonucleotide transformylase
+PA3758@Cytoplasmic@@probable N-acetylglucosamine-6-phosphate deacetylase 
+PA3759@Cytoplasmic@@probable aminotransferase 
+PA3760@Cytoplasmic@@N-Acetyl-D-Glucosamine phosphotransferase system transporter 
+PA3761@Cytoplasmic Membrane@nagE@N-Acetyl-D-Glucosamine phosphotransferase system transporter 
+PA3762@Unknown@@hypothetical protein 
+PA3763@Cytoplasmic@purL@phosphoribosylformylglycinamidine synthase formylglycinamide ribotide amidotransferase
+PA3764@Cytoplasmic@@conserved hypothetical protein 
+PA3769@Cytoplasmic@guaA@GMP synthase 
+PA3770@Cytoplasmic@guaB@inosine-5'-monophosphate dehydrogenase 
+PA0203@Periplasmic@@probable binding protein component of ABC transporter 
+PA3780@Cytoplasmic Membrane@@hypothetical protein 
+PA3781@Cytoplasmic Membrane@@probable transporter 
+PA3790@Outer Membrane@oprC@Putative copper transport outer membrane porin OprC precursor 
+PA3792@@leuA@2-isopropylmalate synthase 
+PA3802@Cytoplasmic@hisS@histidyl-tRNA synthetase 
+PA3803@Cytoplasmic@gcpE@probable isoprenoid biosynthetic protein GcpE 
+PA3807@Extracellular@ndk@nucleoside diphosphate kinase 
+PA3814@Cytoplasmic@iscS@L-cysteine desulfurase (pyridoxal phosphate-dependent) IscS protein
+PA3816@Cytoplasmic@cysE@O-acetylserine synthase 
+PA3818@Cytoplasmic@@extragenic suppressor protein SuhB SuhB
+PA3831@Cytoplasmic@pepA@leucine aminopeptidase Aminopeptidase A
+PA3834@Cytoplasmic@valS@valyl-tRNA synthetase 
+PA3848@Cytoplasmic@@hypothetical protein 
+PA3857@Cytoplasmic Membrane@pcs@phosphatidylcholine synthase 
+PA3860@Cytoplasmic@@probable AMP-binding enzyme 
+PA3862@Cytoplasmic@dauB@NAD(P)H-dependent anabolic L-arginine dehydrogenase
+PA0323@Periplasmic@@probable binding protein component of ABC transporter 
+PA3872@Cytoplasmic Membrane@narI@respiratory nitrate reductase gamma chain 
+PA3873@Cytoplasmic@narJ@respiratory nitrate reductase delta chain 
+PA3874@Cytoplasmic Membrane@narH@respiratory nitrate reductase beta chain 
+PA3875@Cytoplasmic Membrane@narG@respiratory nitrate reductase alpha chain 
+PA3876@Cytoplasmic Membrane@narK2@nitrite extrusion protein 2 
+PA3877@Cytoplasmic Membrane@narK1@nitrite extrusion protein 1 
+PA3887@Cytoplasmic Membrane@nhaP@Na+/H+ antiporter NhaP 
+PA3888@Cytoplasmic Membrane@opuCD@OpuC ABC transporter
+PA3889@Cytoplasmic Membrane@opuCC@OpuC ABC transporter
+PA3890@Cytoplasmic Membrane@opuCB@OpuC ABC transporter
+PA3891@Cytoplasmic Membrane@opuCA@OpuC ABC transporter
+PA3896@Cytoplasmic@@probable 2-hydroxyacid dehydrogenase 
+PA3901@Outer Membrane@fecA@Fe(III) dicitrate transport protein FecA 
+PA3910@Extracellular@eddA@Extracelullar DNA degradation protein
+PA3920@Cytoplasmic Membrane@@probable metal transporting P-type ATPase 
+PA3924@Cytoplasmic@@probable medium-chain acyl-CoA ligase probable acyl-CoA synthetase
+PA3925@Cytoplasmic@@probable acyl-CoA thiolase 
+PA3931@Unknown@@conserved hypothetical protein 
+PA3933@Cytoplasmic Membrane@betT3@BetT3 
+PA3935@Cytoplasmic@tauD@taurine dioxygenase 
+PA3936@Cytoplasmic Membrane@@probable permease of ABC taurine transporter 
+PA3937@Cytoplasmic Membrane@@probable ATP-binding component of ABC taurine transporter 
+PA3938@Unknown@@probable periplasmic taurine-binding protein precursor 
+PA3942@Cytoplasmic@tesB@acyl-CoA thioesterase II TesB
+PA3970@Cytoplasmic@amn@AMP nucleosidase 
+PA2058@Periplasmic@@probable binding protein component of ABC transporter 
+PA3976@Unknown@thiE@thiamin-phosphate pyrophosphorylase thiamin-phosphate synthase
+PA3977@Cytoplasmic@hemL@glutamate-1-semialdehyde 2
+PA3987@Cytoplasmic@leuS@leucyl-tRNA synthetase leucine--tRNA ligase
+PA3988@Unknown@lptE@LPS-assembly lipoprotein LptE hypothetical protein
+PA3992@Cytoplasmic Membrane@@hypothetical protein 
+PA3999@Cytoplasmic Membrane@dacC@D-ala-D-ala-carboxypeptidase D-ala-D-ala endopeptidase; penicillin-binding protein 6 precursor
+PA4001@Cytoplasmic Membrane@sltB1@soluble lytic transglycosylase B membrane-bound lytic transglycosylase
+PA4003@Cytoplasmic Membrane@pbpA@penicillin-binding protein 2 
+PA4006@Cytoplasmic@nadD@nicotinic acid mononucleotide adenylyltransferase NAD biosynthetic protein NadD
+PA4007@Cytoplasmic@proA@gamma-glutamyl phosphate reductase Glutamate-semialdehyde dehydrogenase
+PA4011@Cytoplasmic Membrane@@hypothetical protein 
+PA4019@Cytoplasmic@@probable aromatic acid decarboxylase 
+PA4024@Cytoplasmic@eutB@ethanolamine ammonia-lyase large subunit 
+PA4025@Cytoplasmic@@probable ethanolamine ammonia-lyase light chain 
+PA4027@Unknown@@hypothetical protein 
+PA4031@Cytoplasmic@ppa@inorganic pyrophosphatase 
+PA4043@Cytoplasmic@ispA@geranyltranstransferase FPP synthase; farnesyldiphosphate synthase
+PA4044@Cytoplasmic@dxs@1-deoxyxylulose-5-phosphate synthase dxp synthase
+PA2204@Periplasmic@@probable binding protein component of ABC transporter 
+PA4047@Cytoplasmic@ribA@GTP cyclohydrolase II 
+PA4050@Cytoplasmic Membrane@pgpA@phosphatidylglycerophosphatase A 
+PA4053@Cytoplasmic@ribE@6
+PA4054@Cytoplasmic@ribB@GTP cyclohydrolase II / 3
+PA4055@Cytoplasmic@ribC@riboflavin synthase alpha chain 
+PA4056@Cytoplasmic@ribD@riboflavin-specific deaminase/reductase riboflavin biosynthetic protein RibG; bifunctional pyrimidine deaminase/reductase in pathway of riboflavin biosynthesis
+PA4068@Cytoplasmic@@probable epimerase 
+PA4069@Cytoplasmic@@hypothetical protein 
+PA4073@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA4089@Cytoplasmic@@probable short-chain dehydrogenase 
+PA4091@Cytoplasmic@hpaA@4-hydroxyphenylacetate 3-monooxygenase large chain p-hydroxyphenylacetate 3-hydroxylase
+PA4092@Unknown@hpaC@4-hydroxyphenylacetate 3-monooxygenase small chain 
+PA4097@Cytoplasmic@@probable alcohol dehydrogenase (Zn-dependent) 
+PA4099@Outer Membrane@@hypothetical protein 
+PA4195@Periplasmic@@probable binding protein component of ABC transporter 
+PA4121@Cytoplasmic@@conserved hypothetical protein 
+PA4122@Cytoplasmic@@conserved hypothetical protein 
+PA4123@Cytoplasmic@hpcC@5-carboxy-2-hydroxymuconate semialdehyde dehydrogenase 
+PA4124@Unknown@hpcB@homoprotocatechuate 2
+PA4125@Unknown@hpcD@5-carboxymethyl-2-hydroxymuconate isomerase 
+PA4127@Cytoplasmic@hpcG@2-oxo-hept-3-ene-1
+PA4128@Cytoplasmic@@conserved hypothetical protein 
+PA4130@Cytoplasmic@@probable sulfite or nitrite reductase 
+PA4133@Cytoplasmic Membrane@@cytochrome c oxidase subunit (cbb3-type) cytochrome c oxidase polypeptide I homolog  (heme b/copper cytochrome c oxidase subunit)
+PA4137@Outer Membrane@@probable porin 
+PA4138@Cytoplasmic@tyrS@tyrosyl-tRNA synthetase 
+PA4150@Cytoplasmic@@probable dehydrogenase E1 component 
+PA4151@Cytoplasmic@acoB@acetoin catabolism protein AcoB 
+PA4152@Cytoplasmic@@probable hydrolase 
+PA4153@Cytoplasmic@@2
+PA4158@Cytoplasmic Membrane@fepC@ferric enterobactin transport protein FepC 
+PA4496@Periplasmic@@probable binding protein component of ABC transporter 
+PA4160@Cytoplasmic Membrane@fepD@ferric enterobactin transport protein FepD 
+PA4161@Cytoplasmic Membrane@fepG@ferric enterobactin transport protein FepG 
+PA4163@Cytoplasmic@@hypothetical protein 
+PA4179@Outer Membrane@@probable porin 
+PA4180@Cytoplasmic@@probable acetolactate synthase large subunit 
+PA4188@Cytoplasmic@@conserved hypothetical protein 
+PA4189@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA4192@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA4193@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA4194@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA4497@Periplasmic@@probable binding protein component of ABC transporter 
+PA4198@Cytoplasmic@@probable AMP-binding enzyme 
+PA4201@Cytoplasmic@ddlA@D-alanine-D-alanine ligase A 
+PA4500@Periplasmic@@probable binding protein component of ABC transporter 
+PA4209@Cytoplasmic@phzM@probable phenazine-specific methyltransferase probable O-methyltransferase
+PA4210@Cytoplasmic@phzA1@probable phenazine biosynthesis protein 
+PA4211@Cytoplasmic@phzB1@probable phenazine biosynthesis protein 
+PA4212@Cytoplasmic@phzC1@phenazine biosynthesis protein PhzC 
+PA4213@Unknown@phzD1@phenazine biosynthesis protein PhzD 
+PA4214@Cytoplasmic@phzE1@phenazine biosynthesis protein PhzE 
+PA4215@Cytoplasmic@phzF1@probable phenazine biosynthesis protein 
+PA4216@Cytoplasmic@phzG1@probable pyridoxamine 5'-phosphate oxidase probable phenazine biosynthesis protein
+PA4217@Cytoplasmic@phzS@flavin-containing monooxygenase probable FAD-dependent monooxygenase
+PA4221@Outer Membrane@fptA@Fe(III)-pyochelin outer membrane receptor precursor 
+PA4230@Unknown@pchB@salicylate biosynthesis protein PchB isochorismate-pyruvate lyase; chorismate mutase
+PA4231@Cytoplasmic@pchA@salicylate biosynthesis isochorismate synthase 
+PA4235@Cytoplasmic@ftnA@bacterial ferritin FtnA
+PA4236@Unknown@katA@catalase 
+PA4279@Cytoplasmic@@hypothetical protein 
+PA4280@Cytoplasmic@birA@BirA bifunctional protein 
+PA4286@Unknown@@hypothetical protein 
+PA4292@Cytoplasmic Membrane@@probable phosphate transporter 
+PA4314@Cytoplasmic@purU1@formyltetrahydrofolate deformylase 
+PA4329@Cytoplasmic@pykA@pyruvate kinase II Phosphoenolpyruvate kinase
+PA4330@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA4333@Cytoplasmic@@probable fumarase probable fumarate hydratase
+PA4334@Cytoplasmic Membrane@@probable transport protein 
+PA4339@Cytoplasmic Membrane@@probable phospholipase 
+PA4342@Cytoplasmic@@probable amidase 
+PA4343@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA4351@Cytoplasmic Membrane@olsA@OlsA 
+PA4353@Cytoplasmic@@conserved hypothetical protein 
+PA4358@Cytoplasmic Membrane@@probable ferrous iron transport protein 
+PA4365@Cytoplasmic Membrane@@probable transporter 
+PA4502@Periplasmic@@probable binding protein component of ABC transporter 
+PA4376@Cytoplasmic@pncB2@nicotinate phosphoribosyltransferase 
+PA4389@Cytoplasmic@@probable short-chain dehydrogenase 
+PA4393@Cytoplasmic Membrane@ampG@AmpG 
+PA4397@Cytoplasmic@panE@ketopantoate reductase alternative pyrimidine biosynthesis protein; thiamin biosynthesis protein
+PA4399@Cytoplasmic@@conserved hypothetical protein 
+PA4402@Cytoplasmic@argJ@glutamate N-acetyltransferase ornithine transacetylase
+PA4406@Cytoplasmic@lpxC@UDP-3-O-acyl-N-acetylglucosamine deacetylase EnvA protein
+PA4410@Cytoplasmic@ddlB@D-alanine--D-alanine ligase 
+PA4411@Cytoplasmic@murC@UDP-N-acetylmuramate--alanine ligase 
+PA4412@Cytoplasmic Membrane@murG@UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase 
+PA4414@Cytoplasmic@murD@UDP-N-acetylmuramoylalanine--D-glutamate ligase D-glutamate-adding enzyme
+PA4415@Cytoplasmic Membrane@mraY@phospho-N-acetylmuramoyl-pentapeptide-transferase 
+PA4416@Cytoplasmic@murF@UDP-N-acetylmuramoylalanyl-D-glutamyl-2
+PA4417@Cytoplasmic@murE@UDP-N-acetylmuramoylalanyl-D-glutamate-2
+PA4418@Cytoplasmic Membrane@ftsI@penicillin-binding protein 3 cell-division protein FtsI
+PA4425@Cytoplasmic@@sedoheptulose 7-phosphate isomerase GmhA 
+PA4429@Unknown@@probable cytochrome c1 precursor 
+PA4430@Cytoplasmic Membrane@@probable cytochrome b 
+PA4431@Cytoplasmic Membrane@@probable iron-sulfur protein 
+PA4435@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA4439@Cytoplasmic@trpS@tryptophanyl-tRNA synthetase tryptophan-tRNA ligase
+PA4442@Cytoplasmic@cysN@ATP sulfurylase GTP-binding subunit/APS kinase 
+PA4443@Cytoplasmic@cysD@ATP sulfurylase small subunit sulfate adenylate transferase subunit 2
+PA4444@Cytoplasmic Membrane@mltB1@soluble and membrane-bound lytic transglycosylases membrane-bound lytic transglycosylase
+PA4447@Cytoplasmic@hisC1@histidinol-phosphate aminotransferase imidazole acetol-phosphate transaminase
+PA4448@Cytoplasmic@hisD@histidinol dehydrogenase 
+PA4449@Cytoplasmic@hisG@ATP-phosphoribosyltransferase 
+PA4450@Cytoplasmic@murA@UDP-N-acetylglucosamine 1-carboxyvinyltransferase enoylpyruvate transferase
+PA4457@Cytoplasmic@@arabinose-5-phosphate isomerase KdsD 
+PA4458@Cytoplasmic@@conserved hypothetical protein 
+PA4467@Cytoplasmic Membrane@@hypothetical protein 
+PA4913@Periplasmic@@probable binding protein component of ABC transporter 
+PA4470@Cytoplasmic@fumC1@fumarate hydratase fumarase
+PA4482@Cytoplasmic@gatC@Glu-tRNA(Gln) amidotransferase subunit C 
+PA4483@Cytoplasmic@gatA@Glu-tRNA(Gln) amidotransferase subunit A 
+PA4484@Cytoplasmic@gatB@Glu-tRNA(Gln) amidotransferase subunit B 
+PA4486@Unknown@@conserved hypothetical protein 
+PA5076@Periplasmic@@probable binding protein component of ABC transporter 
+PA5096@Periplasmic@@probable binding protein component of ABC transporter 
+PA0884@Periplasmic@@probable C4-dicarboxylate-binding periplasmic protein 
+PA4501@Outer Membrane@opdD@Glycine-glutamate dipeptide porin OpdP Glycine-glutamate dipeptide porin OpdP 
+PA4616@Periplasmic@@probable c4-dicarboxylate-binding protein 
+PA4503@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA4504@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA4505@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA4506@Cytoplasmic Membrane@@probable ATP-binding component of ABC dipeptide transporter 
+PA4507@Cytoplasmic Membrane@@hypothetical protein 
+PA4509@Cytoplasmic@@hypothetical protein 
+PA4512@Cytoplasmic Membrane@lpxO1@lipopolysaccharide biosynthetic protein LpxO1 
+PA4513@Cytoplasmic Membrane@@probable oxidoreductase 
+PA4519@Cytoplasmic@speC@ornithine decarboxylase 
+PA4522@Cytoplasmic@ampD@beta-lactamase expression regulator AmpD 
+PA4523@Cytoplasmic@@hypothetical protein 
+PA4524@Cytoplasmic@nadC@nicotinate-nucleotide pyrophosphorylase quinolinate phosphoribosyltransferase
+PA4529@Cytoplasmic@coaE@dephosphocoenzyme A kinase CoaE protein
+PA4538@Cytoplasmic Membrane@ndh@NADH dehydrogenase 
+PA4548@Cytoplasmic Membrane@@probable D-amino acid oxidase 
+PA4557@Cytoplasmic@lytB@LytB protein 
+PA4560@Cytoplasmic@ileS@isoleucyl-tRNA synthetase 
+PA4561@Cytoplasmic@ribF@riboflavin kinase/FAD synthase flavokinase
+PA4562@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA4565@Cytoplasmic@proB@glutamate 5-kinase 
+PA4569@Cytoplasmic@ispB@octaprenyl-diphosphate synthase 
+PA3047@Periplasmic@@probable D-alanyl-D-alanine carboxypeptidase probable penicillin-binding protein 4
+PA4588@Unknown@gdhA@glutamate dehydrogenase 
+PA4589@Outer Membrane@@probable outer membrane protein precursor 
+PA4602@Cytoplasmic@glyA3@serine hydroxymethyltransferase 
+PA0164@Periplasmic@@probable gamma-glutamyltranspeptidase 
+PA4615@Cytoplasmic@fprB@FprB probable oxidoreductase
+PA0361@Periplasmic@@probable gamma-glutamyltranspeptidase precursor 
+PA4626@Cytoplasmic@hprA@glycerate dehydrogenase hydroxypyruvate reductase
+PA4628@Cytoplasmic Membrane@lysP@lysine-specific permease 
+PA4640@Cytoplasmic@mqoB@malate:quinone oxidoreductase malate dehydrogenase
+PA4645@Cytoplasmic@@probable purine/pyrimidine phosphoribosyl transferase 
+PA4646@Cytoplasmic@upp@uracil phosphoribosyltransferase 
+PA4647@Cytoplasmic Membrane@uraA@uracil permease 
+PA4655@Cytoplasmic@hemH@ferrochelatase 
+PA4661@Unknown@pagL@Lipid A 3-O-deacylase 
+PA4662@Cytoplasmic@murI@glutamate racemase 
+PA4666@Cytoplasmic@hemA@glutamyl-tRNA reductase hemA; delta-aminolevulinic synthase
+PA4669@Unknown@ipk@isopentenyl monophosphate kinase 
+PA4670@Cytoplasmic@prs@ribose-phosphate pyrophosphokinase phosphoribosylpyrophosphate synthetase
+PA4676@Cytoplasmic@@probable carbonic anhydrase 
+PA0838@Periplasmic@@probable glutathione peroxidase 
+PA4688@Cytoplasmic Membrane@hitB@iron (III)-transport system permease HitB 
+PA4693@Cytoplasmic Membrane@pssA@phosphatidylserine synthase CDP-diacylglycerol--serine O-phosphatidyltransferase
+PA4694@Cytoplasmic@ilvC@ketol-acid reductoisomerase acetohydroxy-acid isomeroreductase; alpha-keto-beta-hydroxylacil reductoisomerase
+PA4695@Cytoplasmic@ilvH@acetolactate synthase isozyme III small subunit AHAS-III
+PA4696@Cytoplasmic@ilvI@acetolactate synthase large subunit acetohydroxy-acid synthase III large subunit; AHAS-III
+PA4700@Cytoplasmic Membrane@mrcB@penicillin-binding protein 1B peptidoglycan synthetase
+PA4706@Cytoplasmic Membrane@phuV@PhuV 
+PA4707@Cytoplasmic Membrane@phuU@PhuU 
+PA1287@Periplasmic@@probable glutathione peroxidase 
+PA4719@Cytoplasmic Membrane@@probable transporter 
+PA4728@Cytoplasmic@folK@2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase 7
+PA4729@Unknown@panB@3-methyl-2-oxobutanoate hydroxymethyltransferase alpha-ketoisovalerate hydroxymethyltransferase; ketopantoate hydroxymethyltransferase
+PA4730@Cytoplasmic@panC@pantoate--beta-alanine ligase pantoate activating enzyme; pantothenate synthetase
+PA4731@Unknown@panD@aspartate 1-decarboxylase precursor aspartate alpha-decarboxylase
+PA4732@Cytoplasmic@pgi@glucose-6-phosphate isomerase phosphohexomutase
+PA4733@Cytoplasmic@acsB@acetyl-coenzyme A synthetase acetate-CoA ligase
+PA4748@Cytoplasmic@tpiA@triosephosphate isomerase TIM
+PA4749@Cytoplasmic@glmM@phosphoglucosamine mutase 
+PA4750@Cytoplasmic@folP@dihydropteroate synthase DHPS; dihydropteroate pyrophosphorylase
+PA4756@Cytoplasmic@carB@carbamoylphosphate synthetase large subunit 
+PA4757@Cytoplasmic Membrane@@conserved hypothetical protein 
+PA4758@Cytoplasmic@carA@carbamoyl-phosphate synthase small chain 
+PA4759@Cytoplasmic@dapB@dihydrodipicolinate reductase 
+PA4770@Cytoplasmic Membrane@lldP@L-lactate permease 
+PA4771@Cytoplasmic@lldD@L-lactate dehydrogenase 
+PA4773@Unknown@@hypothetical protein 
+PA4774@Cytoplasmic@@hypothetical protein 
+PA4785@Cytoplasmic@@probable acyl-CoA thiolase 
+PA4786@Cytoplasmic@@probable short-chain dehydrogenase 
+PA4792@Unknown@@conserved hypothetical protein 
+PA4808@Cytoplasmic@selA@L-seryl-tRNA(ser) selenium transferase selenocysteine synthase
+PA4809@Cytoplasmic@fdhE@FdhE protein 
+PA4810@Cytoplasmic Membrane@fdnI@nitrate-inducible formate dehydrogenase
+PA4811@Cytoplasmic Membrane@fdnH@nitrate-inducible formate dehydrogenase
+PA4812@@fdnG@formate dehydrogenase-O
+PA4814@Cytoplasmic@fadH2@2
+PA4829@Cytoplasmic@lpd3@dihydrolipoamide dehydrogenase 3 LPD-3
+PA4839@Unknown@speA@arginine decarboxylase (ADC) 
+PA4846@Cytoplasmic@aroQ1@3-dehydroquinate dehydratase 
+PA4847@Unknown@accB@biotin carboxyl carrier protein (BCCP) acetyl-CoA carboxylase
+PA4848@Cytoplasmic@accC@biotin carboxylase acetyl-CoA carboxylase
+PA4854@Cytoplasmic@purH@phosphoribosylaminoimidazolecarboxamide formyltransferase IMP cyclohydrolase
+PA4855@Cytoplasmic@purD@phosphoribosylamine--glycine ligase phosphoribosylglycineamide synthetase
+PA4865@Cytoplasmic@ureA@urease gamma subunit 
+PA4867@Cytoplasmic@ureB@urease beta subunit 
+PA4868@Cytoplasmic@ureC@urease alpha subunit 
+PA4872@Cytoplasmic@@hypothetical protein 
+PA4880@Cytoplasmic@@probable bacterioferritin 
+PA4899@Cytoplasmic@@probable aldehyde dehydrogenase 
+PA4900@Cytoplasmic Membrane@@probable major facilitator superfamily (MFS) transporter probable MFS transporter
+PA4901@Cytoplasmic@mdlC@benzoylformate decarboxylase 
+PA4908@Cytoplasmic@@hypothetical protein 
+PA4909@Unknown@@probable ATP-binding component of ABC transporter 
+PA4910@Cytoplasmic@@branched chain amino acid ABC transporter ATP binding protein 
+PA4911@Cytoplasmic Membrane@@probable permease of ABC branched-chain amino acid transporter 
+PA4912@Cytoplasmic Membrane@@branched chain amino acid ABC transporter membrane protein 
+PA2352@Periplasmic@@probable glycerophosphoryl diester phosphodiesterase 
+PA4918@Cytoplasmic@@hypothetical protein 
+PA4919@Cytoplasmic@pncB1@nicotinate phosphoribosyltransferase 
+PA4920@Cytoplasmic@nadE@NH3-dependent NAD synthetase 
+PA4930@Cytoplasmic@alr@biosynthetic alanine racemase 
+PA4938@Cytoplasmic@purA@adenylosuccinate synthetase 
+PA4939@Cytoplasmic@@conserved hypothetical protein 
+PA4947@Unknown@amiB@N-acetylmuramoyl-L-alanine amidase 
+PA4956@Cytoplasmic@rhdA@thiosulfate:cyanide sulfurtransferase rhodanese-like protein; thiosulfate:cyanide sulfurtransferase 
+PA4957@Cytoplasmic Membrane@psd@phosphatidylserine decarboxylase 
+PA4960@Cytoplasmic@@probable phosphoserine phosphatase 
+PA4971@Cytoplasmic@aspP@adenosine diphosphate sugar pyrophosphatase ASPPase
+PA4973@Cytoplasmic@thiC@thiamin biosynthesis protein ThiC 
+PA4975@Cytoplasmic@@NAD(P)H quinone oxidoreductase 
+PA4976@Cytoplasmic@aruH@Arginine:Pyruvate Transaminas
+PA4977@Cytoplasmic@aruI@2-ketoarginine decarboxylase
+PA4980@Cytoplasmic@@probable enoyl-CoA hydratase/isomerase 
+PA4988@Cytoplasmic@waaA@3-deoxy-D-manno-octulosonic-acid (KDO) transferase 
+PA4994@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA4996@Cytoplasmic@rfaE@LPS biosynthesis protein RfaE 
+PA4997@Cytoplasmic Membrane@msbA@transport protein MsbA 
+PA4999@Cytoplasmic Membrane@waaL@O-antigen ligase
+PA5000@Cytoplasmic Membrane@wapR@alpha-1
+PA5004@Cytoplasmic@wapH@WapH probable glycosyl transferase
+PA5005@Cytoplasmic@@probable carbamoyl transferase 
+PA5008@Cytoplasmic@wapP@WapP WaaP; hypothetical protein
+PA5009@Cytoplasmic@waaP@lipopolysaccharide kinase WaaP RfaP protein; heptose kinase WaaP
+PA5010@Cytoplasmic@waaG@UDP-glucose:(heptosyl) LPS alpha 1
+PA5011@Cytoplasmic@waaC@heptosyltransferase I Heptose I transferase
+PA5012@Cytoplasmic@waaF@heptosyltransferase II Heptose II transferase
+PA5013@Cytoplasmic@ilvE@branched-chain amino acid transferase 
+PA5015@Cytoplasmic@aceE@pyruvate dehydrogenase pyruvate dehydrogenase complex component E1
+PA5016@Cytoplasmic@aceF@dihydrolipoamide acetyltransferase pyruvate dehydrogenase complex component E2
+PA5018@Unknown@msrA@peptide methionine sulfoxide reductase peptide met(o) reductase
+PA5020@Cytoplasmic@@probable acyl-CoA dehydrogenase 
+PA5021@@@probable sodium/hydrogen antiporter 
+PA5025@Cytoplasmic@metY@homocysteine synthase O-acetylhomoserine (thiol)-lyase; O-acetyl-L-homoserine sulfhydrylase
+PA5034@Cytoplasmic@hemE@uroporphyrinogen decarboxylase 
+PA5035@Cytoplasmic@gltD@glutamate synthase small chain NADPH-GOGAT gltS beta chain
+PA5036@Cytoplasmic@gltB@glutamate synthase large chain precursor GltS alpha chain; NADPH-GOGAT
+PA5038@Cytoplasmic@aroB@3-dehydroquinate synthase 
+PA5039@Cytoplasmic@aroK@shikimate kinase 
+PA5045@Extracellular@ponA@penicillin-binding protein 1A 
+PA5046@Cytoplasmic@@malic enzyme malate dehydrogenase; pyruvic-malic carboxylase
+PA5051@Cytoplasmic@argS@arginyl-tRNA synthetase arginine--tRNA ligase
+PA5056@Cytoplasmic@phaC1@poly(3-hydroxyalkanoic acid) synthase 1 
+PA5058@Cytoplasmic@phaC2@poly(3-hydroxyalkanoic acid) synthase 2 PHA-polymerase 2
+PA5063@Cytoplasmic@ubiE@ubiquinone biosynthesis methyltransferase UbiE 
+PA5066@Cytoplasmic@hisI@phosphoribosyl-AMP cyclohydrolase 
+PA5067@Cytoplasmic@hisE@phosphoribosyl-ATP pyrophosphohydrolase 
+PA5074@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA5075@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA1410@Periplasmic@@probable periplasmic spermidine/putrescine-binding protein 
+PA5080@Cytoplasmic@@prolyl aminopeptidase proline iminopeptidase
+PA2592@Periplasmic@@probable periplasmic spermidine/putrescine-binding protein 
+PA5089@Extracellular@pldB@PldB 
+PA5091@Cytoplasmic@hutG@N-formylglutamate amidohydrolase 
+PA5092@Cytoplasmic@hutI@imidazolone-5-propionate hydrolase HutI 
+PA5093@Cytoplasmic@@probable histidine/phenylalanine ammonia-lyase 
+PA5094@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA5095@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA2711@Periplasmic@@probable periplasmic spermidine/putrescine-binding protein 
+PA5097@Cytoplasmic Membrane@@probable amino acid permease 
+PA5098@Cytoplasmic@hutH@histidine ammonia-lyase 
+PA5099@Cytoplasmic Membrane@@probable transporter 
+PA5100@Cytoplasmic@hutU@urocanase urocanate hydratase
+PA3020@Periplasmic@@probable soluble lytic transglycosylase 
+PA5106@Cytoplasmic@@conserved hypothetical protein 
+PA5110@Cytoplasmic@fbp@fructose-1
+PA5111@Cytoplasmic@gloA3@lactoylglutathione lyase aldoketomutase
+PA5119@Cytoplasmic@glnA@glutamine synthetase glutamate--ammonia ligase
+PA5131@Cytoplasmic@pgm@phosphoglycerate mutase PGAM; phosphoglycerate phosphomutase
+PA5137@Unknown@@hypothetical protein 
+PA5139@Unknown@@hypothetical protein 
+PA5140@Cytoplasmic@hisF1@imidazoleglycerol-phosphate synthase
+PA5141@Cytoplasmic@hisA@phosphoribosylformimino-5-aminoimidazole carboxamide 
+PA5142@Cytoplasmic@hisH1@glutamine amidotransferase 
+PA5143@Cytoplasmic@hisB@imidazoleglycerol-phosphate dehydratase 
+PA5152@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA5103@Periplasmic@puuR@PuuR 
+PA5154@Cytoplasmic Membrane@@probable permease of ABC transporter 
+PA5155@Cytoplasmic Membrane@@amino acid (lysine/arginine/ornithine/histidine/octopine) ABC transporter membrane protein 
+PA5161@Cytoplasmic@rmlB@dTDP-D-glucose 4
+PA5162@Cytoplasmic@rmlD@dTDP-4-dehydrorhamnose reductase dTDP-6-deoxy-L-mannose dehydrogenase; dTDP-L-rhamnose synthetase
+PA5163@Cytoplasmic@rmlA@glucose-1-phosphate thymidylyltransferase dTDP-glucose synthase; dTDP-glucose pyrophosphorylase
+PA5164@Unknown@rmlC@dTDP-4-dehydrorhamnose 3
+PA1982@Periplasmic@exaA@quinoprotein ethanol dehydrogenase quinoprotein alcohol dehydrogenase
+PA5168@Cytoplasmic Membrane@dctQ@DctQ 
+PA5169@Cytoplasmic Membrane@dctM@DctM 
+PA5170@Cytoplasmic Membrane@arcD@arginine/ornithine antiporter 
+PA5171@Cytoplasmic@arcA@arginine deiminase 
+PA5172@Cytoplasmic@arcB@ornithine carbamoyltransferase
+PA5173@Cytoplasmic@arcC@carbamate kinase 
+PA5174@Cytoplasmic@@probable beta-ketoacyl synthase 
+PA5175@Cytoplasmic@cysQ@3
+PA5176@Cytoplasmic@@conserved hypothetical protein 
+PA1493@Periplasmic@cysP@sulfate-binding protein of ABC transporter 
+PA5188@Cytoplasmic@@probable 3-hydroxyacyl-CoA dehydrogenase 
+PA5192@Cytoplasmic@pckA@phosphoenolpyruvate carboxykinase PEPCK; PEP carboxykinase
+PA5198@Cytoplasmic@@LD-carboxypeptidase 
+PA5203@Cytoplasmic@gshA@glutamate--cysteine ligase gamma-glutamylcysteine synthetase
+PA5204@Cytoplasmic@argA@N-acetylglutamate synthase amino-acid acetyltransferase
+PA5206@Cytoplasmic@argE@acetylornithine deacetylase N-acetylornithinase
+PA5207@Cytoplasmic Membrane@@probable phosphate transporter 
+PA5213@Cytoplasmic@gcvP1@glycine cleavage system protein P1 glycine decarboxylase
+PA5214@Unknown@gcvH1@glycine cleavage system protein H1 
+PA5215@Cytoplasmic@gcvT1@glycine-cleavage system protein T1 glycine-cleavage system protein T
+PA5216@Cytoplasmic Membrane@@probable permease of ABC iron transporter 
+PA0283@Periplasmic@sbp@sulfate-binding protein precursor sulfate starvation-induced protein 2
+PA5221@Cytoplasmic Membrane@@probable FAD-dependent monooxygenase 
+PA5223@Unknown@ubiH@ubiH protein 
+PA5224@Cytoplasmic@pepP@aminopeptidase P proline aminopeptidase; X-Pro aminopeptidase
+PA5228@Unknown@@conserved hypothetical protein 
+PA5235@Cytoplasmic Membrane@glpT@glycerol-3-phosphate transporter glycerol-3-phosphate permease
+PA5237@Cytoplasmic@@conserved hypothetical protein 
+PA5240@Cytoplasmic@trxA@thioredoxin 
+PA5241@Cytoplasmic@ppx@exopolyphosphatase 
+PA5243@Cytoplasmic@hemB@delta-aminolevulinic acid dehydratase porphobilinogen synthase
+PA5249@Cytoplasmic Membrane@@hypothetical protein 
+PA5258@Cytoplasmic Membrane@@hypothetical protein 
+PA5259@Unknown@hemD@uroporphyrinogen-III synthetase hydroxymethylbilane hydrolyase (cyclizing)
+PA5260@Cytoplasmic@hemC@porphobilinogen deaminase hydroxymethylbilane synthase
+PA5263@Cytoplasmic@argH@argininosuccinate lyase 
+PA5268@Cytoplasmic Membrane@corA@magnesium/cobalt transport protein 
+PA5270@Unknown@@hypothetical protein 
+PA5272@Cytoplasmic@cyaA@adenylate cyclase 
+PA5277@Cytoplasmic@lysA@diaminopimelate decarboxylase DAP decarboxylase
+PA5278@Cytoplasmic@dapF@diaminopimelate epimerase DAP epimerase
+PA5283@Cytoplasmic@@probable transcriptional regulator 
+PA5287@Cytoplasmic Membrane@amtB@ammonium transporter AmtB 
+PA5291@Cytoplasmic Membrane@betT2@BetT2 
+PA5297@Cytoplasmic Membrane@poxB@pyruvate dehydrogenase (cytochrome) pyruvate oxidase
+PA5298@Cytoplasmic@@xanthine phosphoribosyltransferase 
+PA5302@Cytoplasmic@dadX@catabolic alanine racemase 
+PA5304@Cytoplasmic Membrane@dadA@D-amino acid dehydrogenase
+PA5310@Unknown@@conserved hypothetical protein 
+PA5312@Cytoplasmic@pauC@Aldehyde dehydrogenase 
+PA5313@Cytoplasmic@gabT2@Transaminase 
+PA4366@Periplasmic@sodB@superoxide dismutase 
+PA5320@Cytoplasmic@coaC@Phosphopantothenoylcysteine synthase/(R)-4'-phospho-N-pantothenoylcysteine decarboxylase CoaBC protein; Dfp protein
+PA5321@Unknown@dut@deoxyuridine 5'-triphosphate nucleotidohydrolase dUTPase
+PA5322@@algC@phosphomannomutase AlgC 
+PA5323@Cytoplasmic@argB@acetylglutamate kinase 
+PA5331@Cytoplasmic@pyrE@orotate phosphoribosyltransferase 
+PA5336@Cytoplasmic@gmk@guanylate kinase GMP kinase
+PA5338@Cytoplasmic@spoT@guanosine-3'
+PA5341@Cytoplasmic Membrane@@hypothetical protein 
+PA5353@Cytoplasmic Membrane@glcF@glycolate oxidase subunit GlcF 
+PA5354@Cytoplasmic@glcE@glycolate oxidase subunit GlcE 
+PA5355@Cytoplasmic@glcD@glycolate oxidase subunit GlcD 
+PA5357@Cytoplasmic@@hypothetical protein 
+PA5358@Cytoplasmic Membrane@ubiA@4-hydroxybenzoate-octaprenyl transferase 
+PA5366@Cytoplasmic Membrane@pstB@ATP-binding component of ABC phosphate transporter 
+PA5367@Cytoplasmic Membrane@pstA@membrane protein component of ABC phosphate transporter 
+PA5368@Cytoplasmic Membrane@pstC@membrane protein component of ABC phosphate transporter 
+PA5369@Cytoplasmic Membrane@pstS@phosphate ABC transporter
+PA5372@Cytoplasmic Membrane@betA@choline dehydrogenase betA protein
+PA5373@Cytoplasmic@betB@betaine aldehyde dehydrogenase betB protein
+PA5375@Cytoplasmic Membrane@betT1@BetT1 
+PA5376@Cytoplasmic Membrane@cbcV@CbcV 
+PA5377@Cytoplasmic Membrane@cbcW@CbcW 
+PA4468@Periplasmic@sodM@superoxide dismutase 
+PA5379@Cytoplasmic@sdaB@L-serine dehydratase L-serine deaminase
+PA5388@Unknown@caiX@CaiX carnitine-specific binding protein
+PA5390@Cytoplasmic@@probable peptidic bond hydrolase 
+PA5394@Cytoplasmic Membrane@cls@cardiolipin synthase 
+PA5413@Cytoplasmic@ltaA@low specificity l-threonine aldolase 
+PA5415@Cytoplasmic@glyA1@serine hydroxymethyltransferase 
+PA5416@Cytoplasmic@soxB@sarcosine oxidase beta subunit 
+PA5417@Cytoplasmic@soxD@sarcosine oxidase delta subunit 
+PA5418@Cytoplasmic@soxA@sarcosine oxidase alpha subunit 
+PA5419@Cytoplasmic@soxG@sarcosine oxidase gamma subunit 
+PA5420@Cytoplasmic@purU2@formyltetrahydrofolate deformylase 
+PA5421@Cytoplasmic@fdhA@glutathione-independent formaldehyde dehydrogenase 
+PA5425@Cytoplasmic Membrane@purK@phosphoribosylaminoimidazole carboxylase 
+PA5426@Unknown@purE@phosphoribosylaminoimidazole carboxylase
+PA5427@Cytoplasmic@adhA@alcohol dehydrogenase 
+PA5429@Cytoplasmic@aspA@aspartate ammonia-lyase aspartase
+PA5435@Cytoplasmic@@probable transcarboxylase subunit 
+PA5436@Cytoplasmic@@probable biotin carboxylase subunit of a transcarboxylase 
+PA5439@Cytoplasmic@@probable glucose-6-phosphate dehydrogenase 
+PA5447@Cytoplasmic@wbpZ@glycosyltransferase WbpZ 
+PA5448@Cytoplasmic@wbpY@glycosyltransferase WbpY 
+PA5449@Cytoplasmic@wbpX@glycosyltransferase WbpX 
+PA5450@Cytoplasmic Membrane@wzt@ABC subunit of A-band LPS efflux transporter 
+PA5451@Cytoplasmic Membrane@wzm@membrane subunit of A-band LPS efflux transporter 
+PA5452@Cytoplasmic@wbpW@phosphomannose isomerase/GDP-mannose WbpW 
+PA5453@Cytoplasmic@gmd@GDP-mannose 4
+PA5454@Cytoplasmic@rmd@oxidoreductase Rmd 
+PA5468@Cytoplasmic Membrane@@probable citrate transporter 
+PA5476@Cytoplasmic Membrane@citA@citrate transporter 
+PA5479@Cytoplasmic Membrane@gltP@proton-glutamate symporter glutamate-aspartate symporter
+PA5485@Cytoplasmic@ampDh2@AmpDh2 AmpDh2 (changed from conserved hypothetical protein)
+PA5495@Cytoplasmic@thrB@homoserine kinase 
+PA5497@Cytoplasmic@nrdJa@class II (cobalamin-dependent) ribonucleotide-diphosphate reductase subunit
+PA3487@Periplasmic@tle5@Tle5 PldA
+PA5500@Cytoplasmic Membrane@znuC@zinc transport protein ZnuC 
+PA5501@Cytoplasmic Membrane@znuB@permease of ABC zinc transporter ZnuB 
+PA5503@Cytoplasmic Membrane@@probable ATP-binding component of ABC transporter 
+PA5504@Cytoplasmic Membrane@@D-methionine ABC transporter membrane protein 
+PA5505@Cytoplasmic Membrane@@probable TonB-dependent receptor 
+PA5508@Cytoplasmic@pauA7@Glutamylpolyamine synthetase homologue 
+PA5514@Unknown@@probable beta-lactamase 
+PA5516@Cytoplasmic@pdxY@pyridoxamine kinase 
+PA5518@Cytoplasmic Membrane@@probable potassium efflux transporter 
+PA5522@Cytoplasmic@pauA6@Glutamylpolyamine synthetase 
+PA5524@Cytoplasmic@@probable short-chain dehydrogenase 
+PA5529@Cytoplasmic Membrane@@probable sodium/proton antiporter 
+PA5530@Cytoplasmic Membrane@@C5-dicarboxylate transporter 
+PA5538@Unknown@amiA@N-acetylmuramoyl-L-alanine amidase 
+PA5539@Unknown@@hypothetical protein 
+PA5541@Cytoplasmic@pyrQ@dihydroorotase 
+PA5549@Cytoplasmic@glmS@glucosamine--fructose-6-phosphate aminotransferase 
+PA5552@Cytoplasmic@glmU@glucosamine-1-phosphate acetyltransferase/N-acetylglucosamine-1-phosphate uridyltransferase UDP-N-acetylglucosamine pyrophosphorylase
+PA5553@Cytoplasmic@atpC@ATP synthase epsilon chain 
+PA5554@Cytoplasmic@atpD@ATP synthase beta chain 
+PA5555@Cytoplasmic@atpG@ATP synthase gamma chain 
+PA5556@Cytoplasmic@atpA@ATP synthase alpha chain 
+PA5557@Cytoplasmic@atpH@ATP synthase delta chain 
+PA5558@Cytoplasmic Membrane@atpF@ATP synthase B chain 
+PA5559@Cytoplasmic Membrane@atpE@atp synthase C chain dicyclohexylcarbodiimide-binding protein
+PA5560@Cytoplasmic Membrane@atpB@ATP synthase A chain 
